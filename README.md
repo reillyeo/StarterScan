@@ -17,6 +17,7 @@ To set-up starterscan on your own machine, run the following commands:
   conda env create -f starterscan/config.yml 
   echo "export PATH\"=$(readlink -f ./starterscan)/:\$PATH\"" >> ~/.bashrc
   source ~/.bashrc
+  conda activate starterscan
 ```
 
 ## Usage
