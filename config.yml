@@ -1,0 +1,9 @@
+name: starterscan
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - minimap2
+  - samtools>=1.15
+  - seqkit
+  - r-base
