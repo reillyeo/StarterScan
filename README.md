@@ -1,0 +1,2 @@
+<img width="1240" height="1269" alt="nervous_cheese" src="https://github.com/user-attachments/assets/d97c7640-878e-498b-9ccc-d5e53589815a" />
+Starterscan is a tool developed for the analysis of metagenomic samples from dairy starter cultures. It combines open source softwares with custom-built databases of genes and bacterial species, to provide a fast overview of the content of a WGS sample, including the detection and quantification of bacterial species and genes relevant for dairy starter cultures.
