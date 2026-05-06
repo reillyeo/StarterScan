@@ -1,4 +1,7 @@
-#!/usr/bin/Rscript
+# Install packages if needed
+if (!require("dplyr")) install.packages("dplyr")
+if (!require("readr")) install.packages("readr")
+if (!require("optparse")) install.packages("optparse")
 
 # load necessary libraries
 suppressMessages(library(optparse))
