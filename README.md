@@ -6,7 +6,7 @@ Starterscan is a tool developed for the analysis of metagenomic samples from dai
 
 ## Setup
 
-Starterscan is designed to be run on a Linux machine and requires a conda installation. ~15 Gb of storage is also required to download the taxonomy database.
+Starterscan is designed to be run on a Linux machine and requires a conda installation. ~20 Gb of storage is also required to download the taxonomy database.
 To set-up starterscan on your own machine, run the following commands:
 
 
