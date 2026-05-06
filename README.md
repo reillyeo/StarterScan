@@ -9,15 +9,20 @@ Starterscan is a tool developed for the analysis of metagenomic samples from dai
 Starterscan is designed to be run on a Linux machine and requires a conda installation. ~15 Gb of storage is also required to download the taxonomy database.
 To set-up starterscan on your own machine, run the following commands:
 
+
+´´´
   git clone https://github.com/reillyeo/StarterScan
   wget https://sid.erda.dk/share_redirect/cDCo25PoIl/starterscan_db.zip -O starterscan/data/starterscan_db.zip
   unzip starterscan/data/starterscan_db.zip -d starterscan/data/
   conda env create -f starterscan/config.yml 
   echo "export PATH\"=$(readlink -f ./starterscan)/:\$PATH\"" >> ~/.bashrc
   source ~/.bashrc
+´´´
+
 
 ## Usage
 
+´´´
   starterscan [options]
 
 Required:
@@ -45,3 +50,4 @@ Notes:
   - A gene is considered DETECTED if at least one read meets both the
     identity AND coverage thresholds.
   - Final output file (annotated_genecounts.csv) reports: (1) gene products, (2) reads per 2 megabases (RP2Mb).
+´´´
