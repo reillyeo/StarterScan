@@ -12,7 +12,10 @@
 
 set -euo pipefail
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 # ── Defaults ─────────────────────────────────────────────────────────────────
+GENES=${SCRIPT_DIR}/data/genes.unique.fasta
 THREADS=8
 MIN_IDENTITY=90        # Minimum % nucleotide identity to retain an alignment
 MIN_COVERAGE=80        # Minimum % of gene length covered by a read alignment
@@ -28,7 +31,7 @@ Usage: $(basename "$0") [OPTIONS]
 
 Required:
   -r  PATH    Raw reads (FASTQ)
-  -g  PATH    Target gene sequences in FASTA format (nucleotide)
+  -g  PATH    Target gene sequences in FASTA format (default: ${SCRIPT_DIR}/data/genes_unique.fasta)
   -o  PATH    Output directory (will be created if it does not exist)
 
 Optional:
@@ -42,7 +45,7 @@ Optional:
 
 Examples:
   # Basic run
-  bash starterscan -r sample.fastq -g my_genes.fasta -o results/
+  bash starterscan -r sample.fastq -o results/
 
 Notes:
   - Identity is calculated as: 100 * (matches / alignment_length)
@@ -74,7 +77,6 @@ done
 
 # ── Validate inputs ────────────────────────────────────────────────────────────
 [[ -z "${READS:-}" ]]  && { echo "ERROR: -r reads is required"; usage; }
-[[ -z "${GENES:-}" ]]  && { echo "ERROR: -g gene FASTA is required"; usage; }
 [[ -z "${OUTDIR:-}" ]] && { echo "ERROR: -o output directory is required"; usage; }
 
 for cmd in minimap2 samtools chopper; do
@@ -311,11 +313,11 @@ PYEOF
 
 # ── Step 9: Create final results table ──────────────────────────────
 
-Rscript ~/my_scripts/starterscan/merge_results.R -o "$OUTDIR"
+Rscript ${SCRIPT_DIR}/merge_results.R -o "$OUTDIR"
 
 # ── Step 10: Classify reads with metabuli ──────────────────────────────
 
-metabuli classify "$FILTERED_READS" ~/databases/metabuli/cheeseDB "$OUTDIR" metabuli --seq-mode 3 --min-score 0.008 --lineage 1 --threads "$THREADS"
+metabuli classify "$FILTERED_READS" ${SCRIPT_DIR}/data/starterscan_db "$OUTDIR" metabuli --seq-mode 3 --min-score 0.008 --lineage 1 --threads "$THREADS"
 
 echo ""
 echo "Done! Full results: $RESULTS"
