@@ -17,7 +17,7 @@ To set-up starterscan on your own machine, run the following commands:
   conda env create -f starterscan/config.yml 
   echo "export PATH\"=$(readlink -f ./starterscan)/:\$PATH\"" >> ~/.bashrc
   source ~/.bashrc
-
+```
 
 ## Usage
 
@@ -49,4 +49,4 @@ Notes:
   - A gene is considered DETECTED if at least one read meets both the
     identity AND coverage thresholds.
   - Final output file (annotated_genecounts.csv) reports: (1) gene products, (2) reads per 2 megabases (RP2Mb).
-
+```
