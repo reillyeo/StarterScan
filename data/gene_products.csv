@@ -1,0 +1,2284 @@
+P1A10_1;Proteinase
+P1A1_1;Proteinase
+P1A4_1;Proteinase
+P1A6_1;Proteinase
+P1A8_1;Proteinase
+P1E11_1;Proteinase
+P1E1_1;Proteinase
+P1F7_1;Proteinase
+P1F8_1;Proteinase
+P1G6_1;Proteinase
+T1C3_1;Proteinase
+T1F10_1;Proteinase
+T2D9_1;Proteinase
+T2F11_1;Proteinase
+P1C10_1;Neutral endopeptidase
+P1F8_1_2;Neutral endopeptidase
+P3A11_1;Neutral endopeptidase
+P3A12_1;Neutral endopeptidase
+P3A6_1;Neutral endopeptidase
+P3A7_1;Neutral endopeptidase
+T3A8_1;Neutral endopeptidase
+T3B1_1;Neutral endopeptidase
+T3B8_1;Neutral endopeptidase
+T2F6_1;Neutral endopeptidase O
+P1A10_1_2;Oligoendopeptidase F
+P1A10_2;Oligoendopeptidase F
+P1A1_2;Oligoendopeptidase F
+P1A4_1_2;Oligoendopeptidase F
+P1A4_2;Oligoendopeptidase F
+P1A6_1_2;Oligoendopeptidase F
+P1A6_2;Oligoendopeptidase F
+P1A8_2;Oligoendopeptidase F
+P1B4_1;Oligoendopeptidase F
+P1B4_2;Oligoendopeptidase F
+P1D11_2;Oligoendopeptidase F
+P1E11_2;Oligoendopeptidase F
+P1E1_2;Oligoendopeptidase F
+P1E4_1;Oligoendopeptidase F
+P1E4_2;Oligoendopeptidase F
+P1E7_1;Oligoendopeptidase F
+P1E7_2;Oligoendopeptidase F
+P1F12_1;Oligoendopeptidase F
+P1F12_2;Oligoendopeptidase F
+P1F1_2;Oligoendopeptidase F
+P1F3_1;Oligoendopeptidase F
+P1F7_1_2;Oligoendopeptidase F
+P1F8_1_3;Oligoendopeptidase F
+P1F8_2;Oligoendopeptidase F
+P1G10_2;Oligoendopeptidase F
+P1G3_2;Oligoendopeptidase F
+P1G3_3;Oligoendopeptidase F
+P2A3_2;Oligoendopeptidase F
+P2A8_1;Oligoendopeptidase F
+P2B1_2;Oligoendopeptidase F
+P2B3_2;Oligoendopeptidase F
+P2B4_2;Oligoendopeptidase F
+P2B8_1;Oligoendopeptidase F
+P2B8_2;Oligoendopeptidase F
+P2C2_1;Oligoendopeptidase F
+P2C2_2;Oligoendopeptidase F
+P2E10_1;Oligoendopeptidase F
+P2F1_2;Oligoendopeptidase F
+P2F5_1;Oligoendopeptidase F
+P2G10_1;Oligoendopeptidase F
+P3A10_1;Oligoendopeptidase F
+P3A10_2;Oligoendopeptidase F
+P3A11_1_2;Oligoendopeptidase F
+P3A12_1_2;Oligoendopeptidase F
+P3A6_1_2;Oligoendopeptidase F
+P3A8_1;Oligoendopeptidase F
+T1C1_2;Oligoendopeptidase F
+T1F10_1_2;Oligoendopeptidase F
+T1F10_2;Oligoendopeptidase F
+T1F2_1;Oligoendopeptidase F
+T1F9_2;Oligoendopeptidase F
+T2A2_1;Oligoendopeptidase F
+T2B1_1;Oligoendopeptidase F
+T2B2_1;Oligoendopeptidase F
+T2B7_1;Oligoendopeptidase F
+T2B7_2;Oligoendopeptidase F
+T2C7_1;Oligoendopeptidase F
+T2D9_2;Oligoendopeptidase F
+T2F11_1_2;Oligoendopeptidase F
+T2F11_2;Oligoendopeptidase F
+T2F6_1_2;Oligoendopeptidase F
+T2H3_1;Oligoendopeptidase F
+T2H5_1;Oligoendopeptidase F
+T3A10_1;Oligoendopeptidase F
+T3A1_1;Oligoendopeptidase F
+T3B1_1_2;Oligoendopeptidase F
+T3B8_1_2;Oligoendopeptidase F
+P1A10_1_3;Aminopeptidase C
+P1A1_1_2;Aminopeptidase C
+P1A4_1_3;Aminopeptidase C
+P1A8_1_2;Aminopeptidase C
+P1E1_1_2;Aminopeptidase C
+P1E7_1_2;Aminopeptidase C
+P1F7_1_3;Aminopeptidase C
+P2B1_1;Aminopeptidase C
+P2B2_1;Aminopeptidase C
+T1C3_1_2;Aminopeptidase C
+T1D3_1;Aminopeptidase C
+T1F10_1_3;Aminopeptidase C
+T1F7_1;Aminopeptidase C
+T2A2_1_2;Aminopeptidase C
+T2C9_1;Aminopeptidase C
+T2D3_1;Aminopeptidase C
+T2D6_1;Aminopeptidase C
+T2D9_1_2;Aminopeptidase C
+T2F6_1_3;Aminopeptidase C
+T2H3_1_2;Aminopeptidase C
+P1A10_1_4;Aminopeptidase N
+P1A1_1_3;Aminopeptidase N
+P1A4_1_4;Aminopeptidase N
+P1A6_1_3;Aminopeptidase N
+P1A8_1_3;Aminopeptidase N
+P1D11_1;Aminopeptidase N
+P1D12_1;Aminopeptidase N
+P1E11_1_2;Aminopeptidase N
+P1E1_1_3;Aminopeptidase N
+P1E7_1_3;Aminopeptidase N
+P1F10_1;Aminopeptidase N
+P1F12_1_2;Aminopeptidase N
+P1F7_1_4;Aminopeptidase N
+P1F8_1_4;Aminopeptidase N
+P1G11_1;Aminopeptidase N
+P2A8_1_2;Aminopeptidase N
+P2B2_1_2;Aminopeptidase N
+P2E4_1;Aminopeptidase N
+P2G10_1_2;Aminopeptidase N
+P2G3_1;Aminopeptidase N
+T1A10_1;Aminopeptidase N
+T1A11_1;Aminopeptidase N
+T1A12_1;Aminopeptidase N
+T1B7_1;Aminopeptidase N
+T1C3_1_3;Aminopeptidase N
+T1E2_1;Aminopeptidase N
+T1F10_1_4;Aminopeptidase N
+T2B1_1_2;Aminopeptidase N
+T2C7_1_2;Aminopeptidase N
+T2D9_1_3;Aminopeptidase N
+T2E1_1;Aminopeptidase N
+P1A10_1_5;Peptidase T
+P1A1_1_4;Peptidase T
+P1A4_1_5;Peptidase T
+P1A6_1_4;Peptidase T
+P1E7_1_4;Peptidase T
+P1F7_1_5;Peptidase T
+P1G11_1_2;Peptidase T
+P1G2_1;Peptidase T
+P2A8_1_3;Peptidase T
+P2B2_1_3;Peptidase T
+P3A10_1_2;Peptidase T
+P3A11_1_3;Peptidase T
+P3A12_1_3;Peptidase T
+P3A6_1_3;Peptidase T
+P3A8_1_2;Peptidase T
+P3B5_1;Peptidase T
+T1C3_1_4;Peptidase T
+T1F10_1_5;Peptidase T
+T2A2_1_3;Peptidase T
+T2A7_1;Peptidase T
+T2C8_1;Peptidase T
+T2D9_1_4;Peptidase T
+T2F11_1_3;Peptidase T
+T2G6_1;Peptidase T
+T2G6_2;Peptidase T
+T2H3_1_3;Peptidase T
+T2H4_1;Peptidase T
+T3B1_1_3;Peptidase T
+P2A8_1_4;Peptidase E
+P2B2_1_4;Peptidase E
+P2E4_1_2;Peptidase E
+P1A10_1_6;Xaa-Pro dipeptidyl-peptidase
+P1A1_1_5;Xaa-Pro dipeptidyl-peptidase
+P1A4_1_6;Xaa-Pro dipeptidyl-peptidase
+P1A6_1_5;Xaa-Pro dipeptidyl-peptidase
+P1A8_1_4;Xaa-Pro dipeptidyl-peptidase
+P1D11_1_2;Xaa-Pro dipeptidyl-peptidase
+P1E1_1_4;Xaa-Pro dipeptidyl-peptidase
+P1E3_1;Xaa-Pro dipeptidyl-peptidase
+P1E7_1_5;Xaa-Pro dipeptidyl-peptidase
+P1F10_1_2;Xaa-Pro dipeptidyl-peptidase
+P1F3_1_2;Xaa-Pro dipeptidyl-peptidase
+P1F7_1_6;Xaa-Pro dipeptidyl-peptidase
+P1F8_1_5;Xaa-Pro dipeptidyl-peptidase
+P1G2_1_2;Xaa-Pro dipeptidyl-peptidase
+P1G9_1;Xaa-Pro dipeptidyl-peptidase
+P2A8_1_5;Xaa-Pro dipeptidyl-peptidase
+P2B1_1_2;Xaa-Pro dipeptidyl-peptidase
+P2B2_1_5;Xaa-Pro dipeptidyl-peptidase
+P2B4_1;Xaa-Pro dipeptidyl-peptidase
+P2C4_1;Xaa-Pro dipeptidyl-peptidase
+P2F4_1;Xaa-Pro dipeptidyl-peptidase
+P2F6_1;Xaa-Pro dipeptidyl-peptidase
+P2G10_1_3;Xaa-Pro dipeptidyl-peptidase
+P3A10_1_3;Xaa-Pro dipeptidyl-peptidase
+P3A11_1_4;Xaa-Pro dipeptidyl-peptidase
+P3A12_1_4;Xaa-Pro dipeptidyl-peptidase
+P3A6_1_4;Xaa-Pro dipeptidyl-peptidase
+P3A7_1_2;Xaa-Pro dipeptidyl-peptidase
+T1A1_1;Xaa-Pro dipeptidyl-peptidase
+T1C3_1_5;Xaa-Pro dipeptidyl-peptidase
+T1F10_1_6;Xaa-Pro dipeptidyl-peptidase
+T1F7_1_2;Xaa-Pro dipeptidyl-peptidase
+T1F9_1;Xaa-Pro dipeptidyl-peptidase
+T1F9_2_2;Xaa-Pro dipeptidyl-peptidase
+T1G1_1;Xaa-Pro dipeptidyl-peptidase
+T2A2_1_4;Xaa-Pro dipeptidyl-peptidase
+T2A8_1;Xaa-Pro dipeptidyl-peptidase
+T2D9_1_5;Xaa-Pro dipeptidyl-peptidase
+T2F11_1_4;Xaa-Pro dipeptidyl-peptidase
+T2F6_1_4;Xaa-Pro dipeptidyl-peptidase
+T2G11_1;Xaa-Pro dipeptidyl-peptidase
+T2G11_2;Xaa-Pro dipeptidyl-peptidase
+T2G2_1;Xaa-Pro dipeptidyl-peptidase
+T2H3_1_4;Xaa-Pro dipeptidyl-peptidase
+T3A1_1_2;Xaa-Pro dipeptidyl-peptidase
+T3B1_1_4;Xaa-Pro dipeptidyl-peptidase
+T3B2_1;Xaa-Pro dipeptidyl-peptidase
+T3B5_1;Xaa-Pro dipeptidyl-peptidase
+P1A10_1_7;Glutamyl aminopeptidase
+P1A1_1_6;Glutamyl aminopeptidase
+P1A4_1_7;Glutamyl aminopeptidase
+P1A6_1_6;Glutamyl aminopeptidase
+P1D11_1_3;Glutamyl aminopeptidase
+P1E12_1;Glutamyl aminopeptidase
+P1E1_1_5;Glutamyl aminopeptidase
+P1E3_1_2;Glutamyl aminopeptidase
+P1F3_1_3;Glutamyl aminopeptidase
+P2B2_1_6;Glutamyl aminopeptidase
+P2B9_1;Glutamyl aminopeptidase
+P2F6_1_2;Glutamyl aminopeptidase
+P3A10_1_4;Glutamyl aminopeptidase
+P3A11_1_5;Glutamyl aminopeptidase
+P3A12_1_5;Glutamyl aminopeptidase
+P3A6_1_5;Glutamyl aminopeptidase
+P3A8_1_3;Glutamyl aminopeptidase
+T1F10_1_7;Glutamyl aminopeptidase
+T1F7_1_3;Glutamyl aminopeptidase
+T1G1_1_2;Glutamyl aminopeptidase
+T2A2_1_5;Glutamyl aminopeptidase
+T2A7_1_2;Glutamyl aminopeptidase
+T2C7_1_3;Glutamyl aminopeptidase
+T2F11_1_5;Glutamyl aminopeptidase
+T2H3_1_5;Glutamyl aminopeptidase
+T3A1_1_3;Glutamyl aminopeptidase
+T3B1_1_5;Glutamyl aminopeptidase
+P1A10_1_8;Dipeptidase PepV
+P1A1_1_7;Dipeptidase PepV
+P1A4_1_8;Dipeptidase PepV
+P1A6_1_7;Dipeptidase PepV
+P1A8_1_5;Dipeptidase PepV
+P1D11_1_4;Dipeptidase PepV
+P1D8_1;Dipeptidase PepV
+P1E1_1_6;Dipeptidase PepV
+P1E7_1_6;Dipeptidase PepV
+P1F7_1_7;Dipeptidase PepV
+P1F8_1_6;Dipeptidase PepV
+P2A8_1_6;Dipeptidase PepV
+P2B2_1_7;Dipeptidase PepV
+P2B9_1_2;Dipeptidase PepV
+P2G10_1_4;Dipeptidase PepV
+P3A10_1_5;Dipeptidase PepV
+P3A10_2_2;Dipeptidase PepV
+P3A11_1_6;Dipeptidase PepV
+P3A11_2;Dipeptidase PepV
+P3A12_1_6;Dipeptidase PepV
+P3A12_2;Dipeptidase PepV
+P3A6_1_6;Dipeptidase PepV
+P3A6_2;Dipeptidase PepV
+P3A7_1_3;Dipeptidase PepV
+P3A7_2;Dipeptidase PepV
+P3A8_1_4;Dipeptidase PepV
+P3B5_1_2;Dipeptidase PepV
+T1F10_1_8;Dipeptidase PepV
+T2A2_1_6;Dipeptidase PepV
+T2D9_1_6;Dipeptidase PepV
+T2G11_1_2;Dipeptidase PepV
+T2H3_1_6;Dipeptidase PepV
+T2H4_1_2;Dipeptidase PepV
+T2H5_1_2;Dipeptidase PepV
+T3A12_1;Dipeptidase PepV
+T3A1_1_4;Dipeptidase PepV
+T3A6_2;Dipeptidase PepV
+T3B1_1_6;Dipeptidase PepV
+T3B1_2;Dipeptidase PepV
+T3B8_2;Dipeptidase PepV
+P2E10_1_2;Oligopeptide transport ATP-binding protein OppD
+P3A10_1_6;Oligopeptide transport ATP-binding protein OppD
+P3A11_1_7;Oligopeptide transport ATP-binding protein OppD
+P3A12_1_7;Oligopeptide transport ATP-binding protein OppD
+P3A6_1_7;Oligopeptide transport ATP-binding protein OppD
+P3A7_1_4;Oligopeptide transport ATP-binding protein OppD
+P3A8_1_5;Oligopeptide transport ATP-binding protein OppD
+T1G1_1_3;Oligopeptide transport ATP-binding protein OppD
+T2D6_1_2;Oligopeptide transport ATP-binding protein OppD
+T3A1_1_5;Oligopeptide transport ATP-binding protein OppD
+T3B1_1_7;Oligopeptide transport ATP-binding protein OppD
+T3B2_1_2;Oligopeptide transport ATP-binding protein OppD
+P1E4_1_2;Oligopeptide transport ATP-binding protein OppF
+P1E7_1_7;Oligopeptide transport ATP-binding protein OppF
+P1F7_1_8;Oligopeptide transport ATP-binding protein OppF
+P2A8_1_7;Oligopeptide transport ATP-binding protein OppF
+P2B2_1_8;Oligopeptide transport ATP-binding protein OppF
+P2B3_1;Oligopeptide transport ATP-binding protein OppF
+P2G10_1_5;Oligopeptide transport ATP-binding protein OppF
+P3A10_1_7;Oligopeptide transport ATP-binding protein OppF
+P3A11_1_8;Oligopeptide transport ATP-binding protein OppF
+P3A12_1_8;Oligopeptide transport ATP-binding protein OppF
+P3A6_1_8;Oligopeptide transport ATP-binding protein OppF
+P3A8_1_6;Oligopeptide transport ATP-binding protein OppF
+T1A3_1;Oligopeptide transport ATP-binding protein OppF
+T1A6_1;Oligopeptide transport ATP-binding protein OppF
+T1A9_1;Oligopeptide transport ATP-binding protein OppF
+T2B7_1_2;Oligopeptide transport ATP-binding protein OppF
+T3A10_1_2;Oligopeptide transport ATP-binding protein OppF
+T3B1_1_8;Oligopeptide transport ATP-binding protein OppF
+T2A2_1_7;Oligopeptide transport system permease protein
+T2F6_1_5;Oligopeptide transport system permease protein
+T2G11_1_3;Oligopeptide transport system permease protein
+T2H3_1_7;Oligopeptide transport system permease protein
+P1A10_1_9;Oligopeptide transport system permease protein OppB
+P1A1_1_8;Oligopeptide transport system permease protein OppB
+P1A8_1_6;Oligopeptide transport system permease protein OppB
+P1E1_1_7;Oligopeptide transport system permease protein OppB
+P1E7_1_8;Oligopeptide transport system permease protein OppB
+P2B2_1_9;Oligopeptide transport system permease protein OppB
+P2B3_1_2;Oligopeptide transport system permease protein OppB
+P2G11_1;Oligopeptide transport system permease protein OppB
+P3A10_1_8;Oligopeptide transport system permease protein OppB
+T1F10_1_9;Oligopeptide transport system permease protein OppB
+T1F7_1_4;Oligopeptide transport system permease protein OppB
+T2B7_1_3;Oligopeptide transport system permease protein OppB
+T2D9_1_7;Oligopeptide transport system permease protein OppB
+T2E1_1_2;Oligopeptide transport system permease protein OppB
+P1A10_1_10;Oligopeptide transport system permease protein OppC
+P1A1_1_9;Oligopeptide transport system permease protein OppC
+P1A8_1_7;Oligopeptide transport system permease protein OppC
+P1E11_1_3;Oligopeptide transport system permease protein OppC
+P1E1_1_8;Oligopeptide transport system permease protein OppC
+P1E4_1_3;Oligopeptide transport system permease protein OppC
+P1E7_1_9;Oligopeptide transport system permease protein OppC
+P1F7_1_9;Oligopeptide transport system permease protein OppC
+P1F7_2;Oligopeptide transport system permease protein OppC
+P1F8_1_7;Oligopeptide transport system permease protein OppC
+P2A8_1_8;Oligopeptide transport system permease protein OppC
+P2B11_2;Oligopeptide transport system permease protein OppC
+P2B8_1_2;Oligopeptide transport system permease protein OppC
+P3A11_1_9;Oligopeptide transport system permease protein OppC
+P3A12_1_9;Oligopeptide transport system permease protein OppC
+P3A6_1_9;Oligopeptide transport system permease protein OppC
+P3A8_1_7;Oligopeptide transport system permease protein OppC
+T1C3_1_6;Oligopeptide transport system permease protein OppC
+T1D8_2;Oligopeptide transport system permease protein OppC
+T1F9_1_2;Oligopeptide transport system permease protein OppC
+T2B7_1_4;Oligopeptide transport system permease protein OppC
+T2D9_1_8;Oligopeptide transport system permease protein OppC
+T2E1_1_3;Oligopeptide transport system permease protein OppC
+T2F11_1_6;Oligopeptide transport system permease protein OppC
+T3B8_1_3;Oligopeptide transport system permease protein OppC
+P1A10_1_11;Oligopeptide-binding protein OppA
+P1A1_1_10;Oligopeptide-binding protein OppA
+P1A4_1_9;Oligopeptide-binding protein OppA
+P1A4_2_2;Oligopeptide-binding protein OppA
+P1A8_1_8;Oligopeptide-binding protein OppA
+P1D11_1_5;Oligopeptide-binding protein OppA
+P1E11_1_4;Oligopeptide-binding protein OppA
+P1E1_1_9;Oligopeptide-binding protein OppA
+P1E4_1_4;Oligopeptide-binding protein OppA
+P1F12_1_3;Oligopeptide-binding protein OppA
+P1F7_1_10;Oligopeptide-binding protein OppA
+P1G10_1;Oligopeptide-binding protein OppA
+P1G2_1_3;Oligopeptide-binding protein OppA
+P1G3_1;Oligopeptide-binding protein OppA
+P2A8_1_9;Oligopeptide-binding protein OppA
+P2B4_1_2;Oligopeptide-binding protein OppA
+P2E4_1_3;Oligopeptide-binding protein OppA
+P2E4_2;Oligopeptide-binding protein OppA
+P2G10_2;Oligopeptide-binding protein OppA
+T1A3_2;Oligopeptide-binding protein OppA
+T1C3_1_7;Oligopeptide-binding protein OppA
+T1F10_1_10;Oligopeptide-binding protein OppA
+T1F9_1_3;Oligopeptide-binding protein OppA
+T1G1_2;Oligopeptide-binding protein OppA
+T2A2_1_8;Oligopeptide-binding protein OppA
+T2A7_1_3;Oligopeptide-binding protein OppA
+T2B4_1;Oligopeptide-binding protein OppA
+T2D9_1_9;Oligopeptide-binding protein OppA
+T2E12_1;Oligopeptide-binding protein OppA
+T2F11_1_7;Oligopeptide-binding protein OppA
+T2F6_1_6;Oligopeptide-binding protein OppA
+T2H3_1_8;Oligopeptide-binding protein OppA
+T2H5_1_3;Oligopeptide-binding protein OppA
+P1A10_1_12;Dipeptide transport ATP-binding protein DppD
+P1A1_1_11;Dipeptide transport ATP-binding protein DppD
+P1A4_1_10;Dipeptide transport ATP-binding protein DppD
+P1A6_1_8;Dipeptide transport ATP-binding protein DppD
+P1D11_1_6;Dipeptide transport ATP-binding protein DppD
+P1E1_1_10;Dipeptide transport ATP-binding protein DppD
+P1E7_1_10;Dipeptide transport ATP-binding protein DppD
+P1F12_1_4;Dipeptide transport ATP-binding protein DppD
+P1G10_1_2;Dipeptide transport ATP-binding protein DppD
+P2A4_1;Dipeptide transport ATP-binding protein DppD
+P1A10_1_13;Dipeptide transport ATP-binding protein DppF
+P1A1_1_12;Dipeptide transport ATP-binding protein DppF
+P1A4_1_11;Dipeptide transport ATP-binding protein DppF
+P1A8_1_9;Dipeptide transport ATP-binding protein DppF
+P1E11_1_5;Dipeptide transport ATP-binding protein DppF
+P1F7_1_11;Dipeptide transport ATP-binding protein DppF
+P1G3_1_2;Dipeptide transport ATP-binding protein DppF
+P1G6_1_2;Dipeptide transport ATP-binding protein DppF
+P2B2_1_10;Dipeptide transport ATP-binding protein DppF
+P2B3_1_3;Dipeptide transport ATP-binding protein DppF
+T1C3_1_8;Dipeptide transport ATP-binding protein DppF
+T2C7_1_4;Dipeptide transport ATP-binding protein DppF
+T2D9_1_10;Dipeptide transport ATP-binding protein DppF
+P1A10_1_14;Dipeptide transport system permease protein DppB
+P1A1_1_13;Dipeptide transport system permease protein DppB
+P1A4_1_12;Dipeptide transport system permease protein DppB
+P1A6_1_9;Dipeptide transport system permease protein DppB
+P1A8_1_10;Dipeptide transport system permease protein DppB
+P1E1_1_11;Dipeptide transport system permease protein DppB
+P1F8_1_8;Dipeptide transport system permease protein DppB
+T1A11_1_2;Dipeptide transport system permease protein DppB
+T1C3_1_9;Dipeptide transport system permease protein DppB
+T1F10_1_11;Dipeptide transport system permease protein DppB
+T2F11_1_8;Dipeptide transport system permease protein DppB
+P1A10_1_15;Dipeptide transport system permease protein DppC
+P1A1_1_14;Dipeptide transport system permease protein DppC
+P1A4_1_13;Dipeptide transport system permease protein DppC
+P1A6_1_10;Dipeptide transport system permease protein DppC
+P1D11_1_7;Dipeptide transport system permease protein DppC
+P1E11_1_6;Dipeptide transport system permease protein DppC
+P1E1_1_12;Dipeptide transport system permease protein DppC
+P1E7_1_11;Dipeptide transport system permease protein DppC
+P1F7_1_12;Dipeptide transport system permease protein DppC
+P1G3_1_3;Dipeptide transport system permease protein DppC
+T1F10_1_12;Dipeptide transport system permease protein DppC
+T1G1_1_4;Dipeptide transport system permease protein DppC
+T2D9_1_11;Dipeptide transport system permease protein DppC
+T2F11_1_9;Dipeptide transport system permease protein DppC
+P1A10_1_16;Di-/tripeptide transporter
+P1A1_1_15;Di-/tripeptide transporter
+P1A4_1_14;Di-/tripeptide transporter
+P1E11_1_7;Di-/tripeptide transporter
+P1E7_1_12;Di-/tripeptide transporter
+P1F3_1_4;Di-/tripeptide transporter
+P1F7_1_13;Di-/tripeptide transporter
+P1F8_1_9;Di-/tripeptide transporter
+P2B2_1_11;Di-/tripeptide transporter
+P2G10_1_6;Di-/tripeptide transporter
+T1F10_1_13;Di-/tripeptide transporter
+T1F9_1_4;Di-/tripeptide transporter
+T2F11_1_10;Di-/tripeptide transporter
+P1A10_1_17;Amino acid permease
+P1A10_2_2;Amino acid permease
+P1A1_1_16;Amino acid permease
+P1A1_2_2;Amino acid permease
+P1A4_1_15;Amino acid permease
+P1A4_2_3;Amino acid permease
+P1A4_3;Amino acid permease
+P1A6_1_11;Amino acid permease
+P1A6_2_2;Amino acid permease
+P1A6_3;Amino acid permease
+P1A8_1_11;Amino acid permease
+P1D11_2_2;Amino acid permease
+P1D11_3;Amino acid permease
+P1E11_1_8;Amino acid permease
+P1E11_2_2;Amino acid permease
+P1E1_1_13;Amino acid permease
+P1E1_2_2;Amino acid permease
+P1E7_1_13;Amino acid permease
+P1E7_2_2;Amino acid permease
+P1E7_3;Amino acid permease
+P1F10_1_3;Amino acid permease
+P1F12_2_2;Amino acid permease
+P1F7_1_14;Amino acid permease
+P1F7_2_2;Amino acid permease
+P1F8_1_10;Amino acid permease
+P1F8_2_2;Amino acid permease
+P1G10_2_2;Amino acid permease
+P1G10_3;Amino acid permease
+P1G2_2;Amino acid permease
+P1G6_4;Amino acid permease
+P2A10_1;Amino acid permease
+P2A4_1_2;Amino acid permease
+P2A8_1_10;Amino acid permease
+P2A8_2;Amino acid permease
+P2B2_1_12;Amino acid permease
+P2B2_2;Amino acid permease
+P2F1_2_2;Amino acid permease
+P2F5_1_2;Amino acid permease
+P2G10_3;Amino acid permease
+P3A10_1_9;Amino acid permease
+P3A10_2_3;Amino acid permease
+P3A11_1_10;Amino acid permease
+P3A12_1_10;Amino acid permease
+P3A6_1_10;Amino acid permease
+P3A6_2_2;Amino acid permease
+P3A7_1_5;Amino acid permease
+T1C3_1_10;Amino acid permease
+T1C3_2;Amino acid permease
+T1D2_2;Amino acid permease
+T1D2_3;Amino acid permease
+T1E6_2;Amino acid permease
+T1F10_1_14;Amino acid permease
+T1F10_2_2;Amino acid permease
+T1F3_1;Amino acid permease
+T1F3_2;Amino acid permease
+T1F9_1_5;Amino acid permease
+T1F9_2_3;Amino acid permease
+T2A2_1_9;Amino acid permease
+T2A2_2;Amino acid permease
+T2A2_3;Amino acid permease
+T2A2_4;Amino acid permease
+T2B4_4;Amino acid permease
+T2D9_1_12;Amino acid permease
+T2D9_2_2;Amino acid permease
+T2F11_2_2;Amino acid permease
+T2F6_3;Amino acid permease
+T2G11_1_4;Amino acid permease
+T2G3_1;Amino acid permease
+T2H3_1_9;Amino acid permease
+T2H3_2;Amino acid permease
+T2H3_3;Amino acid permease
+T2H3_4;Amino acid permease
+T2H4_1_3;Amino acid permease
+T3A1_1_6;Amino acid permease
+T3B8_2_2;Amino acid permease
+P1A10_1_18;Branched-chain amino acid permease BcaP
+P1A1_1_17;Branched-chain amino acid permease BcaP
+P1A4_1_16;Branched-chain amino acid permease BcaP
+P1A6_1_12;Branched-chain amino acid permease BcaP
+P1A8_1_12;Branched-chain amino acid permease BcaP
+P1E7_1_14;Branched-chain amino acid permease BcaP
+P1F12_1_5;Branched-chain amino acid permease BcaP
+P1F8_1_11;Branched-chain amino acid permease BcaP
+P1G6_1_3;Branched-chain amino acid permease BcaP
+P1G9_1_2;Branched-chain amino acid permease BcaP
+P2A8_1_11;Branched-chain amino acid permease BcaP
+P2B2_1_13;Branched-chain amino acid permease BcaP
+P2G10_1_7;Branched-chain amino acid permease BcaP
+T1C3_1_11;Branched-chain amino acid permease BcaP
+T1F10_1_15;Branched-chain amino acid permease BcaP
+T1G5_1;Branched-chain amino acid permease BcaP
+T2D9_1_13;Branched-chain amino acid permease BcaP
+T2E1_1_4;Branched-chain amino acid permease BcaP
+T2F11_1_11;Branched-chain amino acid permease BcaP
+P3A11_1_11;Branched-chain amino acid ABC transporter permease protein
+P1A10_1_19;Branched-chain amino acid ABC transporter
+P1A1_1_18;Branched-chain amino acid ABC transporter
+P1A6_1_13;Branched-chain amino acid ABC transporter
+P1A8_1_13;Branched-chain amino acid ABC transporter
+P1E11_1_9;Branched-chain amino acid ABC transporter
+P1F8_1_12;Branched-chain amino acid ABC transporter
+P1G11_1_3;Branched-chain amino acid ABC transporter
+P2A8_1_12;Branched-chain amino acid ABC transporter
+P2B2_1_14;Branched-chain amino acid ABC transporter
+T1C3_1_12;Branched-chain amino acid ABC transporter
+T1F9_1_6;Branched-chain amino acid ABC transporter
+P2B9_1_3;Branched-chain amino acid transport protein
+T2A2_1_10;Branched-chain amino acid transport protein
+T2E12_1_2;Branched-chain amino acid transport protein
+T2H3_1_10;Branched-chain amino acid transport protein
+P1A10_1_20;Aromatic amino acid permease FywP
+P1A1_1_19;Aromatic amino acid permease FywP
+P1A4_1_17;Aromatic amino acid permease FywP
+P1A8_1_14;Aromatic amino acid permease FywP
+P1B9_1;Aromatic amino acid permease FywP
+P1D11_1_8;Aromatic amino acid permease FywP
+P1E11_1_10;Aromatic amino acid permease FywP
+P1E1_1_14;Aromatic amino acid permease FywP
+P1E7_1_15;Aromatic amino acid permease FywP
+P1F12_1_6;Aromatic amino acid permease FywP
+P1F7_1_15;Aromatic amino acid permease FywP
+P1G10_1_3;Aromatic amino acid permease FywP
+P1G2_1_4;Aromatic amino acid permease FywP
+P2F4_1_2;Aromatic amino acid permease FywP
+T1C3_1_13;Aromatic amino acid permease FywP
+T1F10_1_16;Aromatic amino acid permease FywP
+T1G7_1;Aromatic amino acid permease FywP
+T2D9_1_14;Aromatic amino acid permease FywP
+T2E1_1_5;Aromatic amino acid permease FywP
+P1A1_1_20;Dihydroxy-acid dehydratase
+P1A4_1_18;Dihydroxy-acid dehydratase
+P1A6_1_14;Dihydroxy-acid dehydratase
+P1A8_1_15;Dihydroxy-acid dehydratase
+P1D11_1_9;Dihydroxy-acid dehydratase
+P1E12_1_2;Dihydroxy-acid dehydratase
+P1E1_1_15;Dihydroxy-acid dehydratase
+P1E7_1_16;Dihydroxy-acid dehydratase
+P1F12_1_7;Dihydroxy-acid dehydratase
+P1F3_1_5;Dihydroxy-acid dehydratase
+P1F7_1_16;Dihydroxy-acid dehydratase
+P1G2_1_5;Dihydroxy-acid dehydratase
+P2A10_1_2;Dihydroxy-acid dehydratase
+P2A8_1_13;Dihydroxy-acid dehydratase
+P2A8_2_2;Dihydroxy-acid dehydratase
+P2B1_1_3;Dihydroxy-acid dehydratase
+P2B2_1_15;Dihydroxy-acid dehydratase
+P2B2_2_2;Dihydroxy-acid dehydratase
+P2B4_1_3;Dihydroxy-acid dehydratase
+P2C4_1_2;Dihydroxy-acid dehydratase
+P2E10_1_3;Dihydroxy-acid dehydratase
+P2G3_1_2;Dihydroxy-acid dehydratase
+P3A11_1_12;Dihydroxy-acid dehydratase
+P3A12_1_11;Dihydroxy-acid dehydratase
+P3A12_2_2;Dihydroxy-acid dehydratase
+P3A6_1_11;Dihydroxy-acid dehydratase
+P3A7_1_6;Dihydroxy-acid dehydratase
+T1C3_1_14;Dihydroxy-acid dehydratase
+T1F10_1_17;Dihydroxy-acid dehydratase
+T1F3_1_2;Dihydroxy-acid dehydratase
+T1F7_1_5;Dihydroxy-acid dehydratase
+T1F9_1_7;Dihydroxy-acid dehydratase
+T2A2_1_11;Dihydroxy-acid dehydratase
+T2D8_1;Dihydroxy-acid dehydratase
+T2D9_1_15;Dihydroxy-acid dehydratase
+T2E1_1_6;Dihydroxy-acid dehydratase
+T2E1_2;Dihydroxy-acid dehydratase
+T2G11_1_5;Dihydroxy-acid dehydratase
+T2G11_2_2;Dihydroxy-acid dehydratase
+T2H3_1_11;Dihydroxy-acid dehydratase
+T2H5_2;Dihydroxy-acid dehydratase
+T3A1_1_7;Dihydroxy-acid dehydratase
+T3A2_1;Dihydroxy-acid dehydratase
+T3B1_1_9;Dihydroxy-acid dehydratase
+T3B8_1_4;Dihydroxy-acid dehydratase
+P1A10_1_21;Branched-chain amino acid aminotransferase
+P1A1_1_21;Branched-chain amino acid aminotransferase
+P1A4_1_19;Branched-chain amino acid aminotransferase
+P1A8_1_16;Branched-chain amino acid aminotransferase
+P1E1_1_16;Branched-chain amino acid aminotransferase
+P1F12_1_8;Branched-chain amino acid aminotransferase
+P1F8_1_13;Branched-chain amino acid aminotransferase
+P1G3_1_4;Branched-chain amino acid aminotransferase
+P2B2_1_16;Branched-chain amino acid aminotransferase
+P3A10_1_10;Branched-chain amino acid aminotransferase
+P3A11_1_13;Branched-chain amino acid aminotransferase
+P3A12_1_12;Branched-chain amino acid aminotransferase
+P3A6_1_12;Branched-chain amino acid aminotransferase
+T1F10_1_18;Branched-chain amino acid aminotransferase
+T1F7_1_6;Branched-chain amino acid aminotransferase
+T1F9_1_8;Branched-chain amino acid aminotransferase
+T1G1_1_5;Branched-chain amino acid aminotransferase
+T2A2_1_12;Branched-chain amino acid aminotransferase
+T2A7_1_4;Branched-chain amino acid aminotransferase
+T2D9_1_16;Branched-chain amino acid aminotransferase
+T2H3_1_12;Branched-chain amino acid aminotransferase
+T3A1_1_8;Branched-chain amino acid aminotransferase
+T3B1_1_10;Branched-chain amino acid aminotransferase
+P1A6_1_15;Branched-chain-amino-acid aminotransferase
+P2G10_1_8;Branched-chain-amino-acid aminotransferase
+P1A6_1_16;Alpha-keto acid decarboxylase family protein
+P1F12_1_9;Alpha-keto acid decarboxylase family protein
+P3A10_1_11;Aspartate ammonia-lyase
+P3A11_1_14;Aspartate ammonia-lyase
+P3A12_1_13;Aspartate ammonia-lyase
+P3A6_1_13;Aspartate ammonia-lyase
+P3A7_1_7;Aspartate ammonia-lyase
+P3A8_1_8;Aspartate ammonia-lyase
+T3B1_1_11;Aspartate ammonia-lyase
+P1A1_1_22;Alcohol dehydrogenase
+P1A6_1_17;Alcohol dehydrogenase
+P1E2_1;Alcohol dehydrogenase
+P1F12_1_10;Alcohol dehydrogenase
+P1F3_1_6;Alcohol dehydrogenase
+P2B9_1_4;Alcohol dehydrogenase
+P3A10_1_12;Alcohol dehydrogenase
+P3A11_1_15;Alcohol dehydrogenase
+P3A6_1_14;Alcohol dehydrogenase
+T1C3_1_15;Alcohol dehydrogenase
+P3A10_1_13;NAD-dependent aldehyde dehydrogenase
+T2E1_1_7;Aldehyde dehydrogenase family protein
+P1A10_1_22;Cystathionine beta-lyase
+P1A1_1_23;Cystathionine beta-lyase
+P1A4_1_20;Cystathionine beta-lyase
+P1A8_1_17;Cystathionine beta-lyase
+P1E1_1_17;Cystathionine beta-lyase
+P1F12_1_11;Cystathionine beta-lyase
+P1F3_1_7;Cystathionine beta-lyase
+P1F8_1_14;Cystathionine beta-lyase
+P2A4_1_3;Cystathionine beta-lyase
+P2A8_1_14;Cystathionine beta-lyase
+P2D11_1;Cystathionine beta-lyase
+P2D12_1;Cystathionine beta-lyase
+P2F6_1_3;Cystathionine beta-lyase
+T1C3_1_16;Cystathionine beta-lyase
+T1F2_1_2;Cystathionine beta-lyase
+T1F3_1_3;Cystathionine beta-lyase
+T2A2_1_13;Cystathionine beta-lyase
+T2C12_1;Cystathionine beta-lyase
+T2E12_1_3;Cystathionine beta-lyase
+T2E1_1_8;Cystathionine beta-lyase
+T2F11_1_12;Cystathionine beta-lyase
+T2G11_1_6;Cystathionine beta-lyase
+T2H3_1_13;Cystathionine beta-lyase
+T2H5_1_4;Cystathionine beta-lyase
+P1G5_1;Cystathionine beta-synthase
+P3A11_1_16;Methionine gamma-lyase
+P3A6_1_15;Methionine gamma-lyase
+P1A10_1_23;Cystathionine gamma-synthase
+P1A10_2_3;Cystathionine gamma-synthase
+P1A1_1_24;Cystathionine gamma-synthase
+P1A1_2_3;Cystathionine gamma-synthase
+P1A4_1_21;Cystathionine gamma-synthase
+P1A4_2_4;Cystathionine gamma-synthase
+P1A6_1_18;Cystathionine gamma-synthase
+P1A6_2_3;Cystathionine gamma-synthase
+P1A8_1_18;Cystathionine gamma-synthase
+P1D11_1_10;Cystathionine gamma-synthase
+P1D11_2_3;Cystathionine gamma-synthase
+P1D8_1_2;Cystathionine gamma-synthase
+P1E11_1_11;Cystathionine gamma-synthase
+P1E1_1_18;Cystathionine gamma-synthase
+P1E1_2_3;Cystathionine gamma-synthase
+P1E7_1_17;Cystathionine gamma-synthase
+P1F12_1_12;Cystathionine gamma-synthase
+P1F7_2_3;Cystathionine gamma-synthase
+P1F8_1_15;Cystathionine gamma-synthase
+P1G2_2_2;Cystathionine gamma-synthase
+P1G3_2_2;Cystathionine gamma-synthase
+P2A6_1;Cystathionine gamma-synthase
+P2B2_1_17;Cystathionine gamma-synthase
+P2B3_1_4;Cystathionine gamma-synthase
+P2E10_1_4;Cystathionine gamma-synthase
+P2F1_1;Cystathionine gamma-synthase
+P2F1_2_3;Cystathionine gamma-synthase
+P2H2_2;Cystathionine gamma-synthase
+P3A10_1_14;Cystathionine gamma-synthase
+P3A10_2_4;Cystathionine gamma-synthase
+P3A6_1_16;Cystathionine gamma-synthase
+T1C3_1_17;Cystathionine gamma-synthase
+T1F10_1_19;Cystathionine gamma-synthase
+T1F10_2_3;Cystathionine gamma-synthase
+T1F9_1_9;Cystathionine gamma-synthase
+T1F9_2_4;Cystathionine gamma-synthase
+T1G1_2_2;Cystathionine gamma-synthase
+T2A2_1_14;Cystathionine gamma-synthase
+T2B4_1_2;Cystathionine gamma-synthase
+T2B8_1;Cystathionine gamma-synthase
+T2D9_1_17;Cystathionine gamma-synthase
+T2H3_1_14;Cystathionine gamma-synthase
+T3A1_1_9;Cystathionine gamma-synthase
+P3A11_1_17;Cysteine synthase / cystathionine gamma-synthase
+P3A12_1_14;Cysteine synthase / cystathionine gamma-synthase
+P3A6_1_17;Cysteine synthase / cystathionine gamma-synthase
+T3A1_1_10;Cysteine synthase / cystathionine gamma-synthase
+T3B1_1_12;Cysteine synthase / cystathionine gamma-synthase
+P1A4_1_22;[Citrate (pro-3S)-lyase] ligase
+P1D11_1_11;[Citrate (pro-3S)-lyase] ligase
+P2G10_1_9;[Citrate (pro-3S)-lyase] ligase
+P3A10_1_15;[Citrate (pro-3S)-lyase] ligase
+P3A11_1_18;[Citrate (pro-3S)-lyase] ligase
+P3A12_1_15;[Citrate (pro-3S)-lyase] ligase
+P3A6_1_18;[Citrate (pro-3S)-lyase] ligase
+P3A7_1_8;[Citrate (pro-3S)-lyase] ligase
+P3A8_1_9;[Citrate (pro-3S)-lyase] ligase
+T3A1_1_11;[Citrate (pro-3S)-lyase] ligase
+T3B1_1_13;[Citrate (pro-3S)-lyase] ligase
+P1A4_1_23;Citrate (pro-3S)-lyase subunit beta
+P1A6_1_19;Citrate (pro-3S)-lyase subunit beta
+P1F12_1_13;Citrate (pro-3S)-lyase subunit beta
+P3A10_1_16;Citrate (pro-3S)-lyase subunit beta
+P3A11_1_19;Citrate (pro-3S)-lyase subunit beta
+P3A12_1_16;Citrate (pro-3S)-lyase subunit beta
+P3A6_1_19;Citrate (pro-3S)-lyase subunit beta
+P3A7_1_9;Citrate (pro-3S)-lyase subunit beta
+T3B1_1_14;Citrate (pro-3S)-lyase subunit beta
+P1A4_1_24;Citrate lyase acyl carrier protein
+P3A10_1_17;Citrate lyase acyl carrier protein
+P3A11_1_20;Citrate lyase acyl carrier protein
+P3A6_1_20;Citrate lyase acyl carrier protein
+P3A7_1_10;Citrate lyase acyl carrier protein
+P1A4_1_25;Citrate lyase subunit alpha
+P1A6_1_20;Citrate lyase subunit alpha
+P1F12_1_14;Citrate lyase subunit alpha
+P3A10_1_18;Citrate lyase subunit alpha
+P3A11_1_21;Citrate lyase subunit alpha
+P3A12_1_17;Citrate lyase subunit alpha
+P3A6_1_21;Citrate lyase subunit alpha
+P3A7_1_11;Citrate lyase subunit alpha
+P3A8_1_10;Citrate lyase subunit alpha
+P3B5_1_3;Citrate lyase subunit alpha
+P1A4_1_26;Citrate lyase holo-[acyl-carrier protein] synthase
+P2E4_1_4;Citrate lyase holo-[acyl-carrier protein] synthase
+P2G10_1_10;Citrate lyase holo-[acyl-carrier protein] synthase
+P1A4_1_27;Citrate transporter CitP
+P1D11_1_12;Citrate transporter CitP
+P1F12_1_15;Citrate transporter CitP
+P2E1_1;Citrate transporter CitP
+P2E4_1_5;Citrate transporter CitP
+P2G8_1;Citrate transporter CitP
+T2A2_1_15;Citrate:sodium symporter
+T2C7_1_5;Citrate:sodium symporter
+T2F6_1_7;Citrate:sodium symporter
+T2H3_1_15;Citrate:sodium symporter
+P3A12_1_18;Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, beta subunit
+T3B1_1_15;Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, beta subunit
+P3A10_1_19;Oxaloacetate decarboxylase involved in citrate fermentation
+P3A12_1_19;Oxaloacetate decarboxylase involved in citrate fermentation
+P3A4_1;Oxaloacetate decarboxylase involved in citrate fermentation
+P3B5_1_4;Oxaloacetate decarboxylase involved in citrate fermentation
+T3A5_1;Oxaloacetate decarboxylase involved in citrate fermentation
+T3B6_1;Oxaloacetate decarboxylase involved in citrate fermentation
+P2A8_1_15;Malate dehydrogenase
+P3A11_1_22;Malate dehydrogenase (NAD)
+P3A12_1_20;Malate dehydrogenase (NAD)
+P3A6_1_22;Malate dehydrogenase (NAD)
+P3A7_1_12;Malate dehydrogenase (NAD)
+P3A8_1_11;Malate dehydrogenase (NAD)
+T3B1_1_16;Malate dehydrogenase (NAD)
+P1A10_1_24;Malate/lactate dehydrogenase
+P1A1_1_25;Malate/lactate dehydrogenase
+P1A8_1_19;Malate/lactate dehydrogenase
+P1E1_1_19;Malate/lactate dehydrogenase
+P1E7_1_18;Malate/lactate dehydrogenase
+P1F10_1_4;Malate/lactate dehydrogenase
+P1F3_1_8;Malate/lactate dehydrogenase
+P1G2_1_6;Malate/lactate dehydrogenase
+P2A6_1_2;Malate/lactate dehydrogenase
+P2B2_1_18;Malate/lactate dehydrogenase
+T1C3_1_18;Malate/lactate dehydrogenase
+T1F10_1_20;Malate/lactate dehydrogenase
+T1F9_1_10;Malate/lactate dehydrogenase
+P1A4_1_28;L-lactate/malate dehydrogenase
+P1A6_1_21;L-lactate/malate dehydrogenase
+P2G10_1_11;L-lactate/malate dehydrogenase
+P1A6_1_22;Malic enzyme
+P3A10_1_20;Malic enzyme
+P3A11_1_23;Malic enzyme
+P3A12_1_21;Malic enzyme
+P3A6_1_23;Malic enzyme
+P3A7_1_13;Malic enzyme
+P3A8_1_12;Malic enzyme
+T3A10_1_3;Malic enzyme
+T3A5_1_2;Malic enzyme
+T3B8_1_5;Malic enzyme
+T2A2_1_16;Pyruvate dehydrogenase E1 component alpha subunit
+T2D6_1_3;Pyruvate dehydrogenase E1 component alpha subunit
+T2H3_1_16;Pyruvate dehydrogenase E1 component alpha subunit
+T2D6_1_4;Pyruvate dehydrogenase E1 component subunit alpha
+T2A2_1_17;Pyruvate dehydrogenase E1 component beta subunit
+T2A7_1_5;Pyruvate dehydrogenase E1 component beta subunit
+T2H3_1_17;Pyruvate dehydrogenase E1 component beta subunit
+T2A2_1_18;Pyruvate dehydrogenase E1 component subunit beta PdhB
+T2H3_1_18;Pyruvate dehydrogenase E1 component subunit beta PdhB
+T2H4_1_4;Pyruvate dehydrogenase E1 component subunit beta PdhB
+P1F7_1_17;Dihydrolipoamide dehydrogenase
+P1A10_1_25;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P1A1_1_26;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P1A4_1_29;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P1A6_1_23;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P1A8_1_20;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P1E1_1_20;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P1E7_1_19;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P1F12_1_16;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P1F3_1_9;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P1F7_1_18;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P1F8_1_16;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P1G3_1_5;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P2A8_1_16;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P2B1_1_4;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P2B2_1_19;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P2B9_1_5;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P2F1_1_2;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P3A10_1_21;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+T1C3_1_19;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+T1F10_1_21;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+T2A2_1_19;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+T2D9_1_18;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+T2E12_1_4;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+T2G11_1_7;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+T2H3_1_19;Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+P1A10_1_26;Phosphate acetyltransferase
+P1A1_1_27;Phosphate acetyltransferase
+P1A4_1_30;Phosphate acetyltransferase
+P1A8_1_21;Phosphate acetyltransferase
+P1E11_1_12;Phosphate acetyltransferase
+P1F3_1_10;Phosphate acetyltransferase
+P1F7_1_19;Phosphate acetyltransferase
+P2A10_1_3;Phosphate acetyltransferase
+P2A8_1_17;Phosphate acetyltransferase
+P2B2_1_20;Phosphate acetyltransferase
+P2B4_1_4;Phosphate acetyltransferase
+P2F3_1;Phosphate acetyltransferase
+P3A10_1_22;Phosphate acetyltransferase
+P3A11_1_24;Phosphate acetyltransferase
+P3A12_1_22;Phosphate acetyltransferase
+P3A6_1_24;Phosphate acetyltransferase
+T1C3_1_20;Phosphate acetyltransferase
+T2A2_1_20;Phosphate acetyltransferase
+T2A4_1;Phosphate acetyltransferase
+T2G11_1_8;Phosphate acetyltransferase
+T2H3_1_20;Phosphate acetyltransferase
+T3B1_1_17;Phosphate acetyltransferase
+P1A10_1_27;Acetate kinase
+P1F7_1_20;Acetate kinase
+P1G2_1_7;Acetate kinase
+P3A10_1_23;Acetate kinase
+P3A10_2_5;Acetate kinase
+P3A11_1_25;Acetate kinase
+P3A11_2_2;Acetate kinase
+P3A12_1_23;Acetate kinase
+P3A12_2_3;Acetate kinase
+P3A6_1_25;Acetate kinase
+P3A6_2_3;Acetate kinase
+P3A8_1_13;Acetate kinase
+P3B5_2;Acetate kinase
+P3B8_2;Acetate kinase
+T2A2_1_21;Acetate kinase
+T2H3_1_21;Acetate kinase
+T3A1_1_12;Acetate kinase
+T3B1_1_18;Acetate kinase
+T3B8_1_6;Acetate kinase
+P1A1_1_28;Acetate kinase 1
+P1A4_1_31;Acetate kinase 1
+P1A8_1_22;Acetate kinase 1
+P1D8_1_3;Acetate kinase 1
+P1E11_1_13;Acetate kinase 1
+P1E7_1_20;Acetate kinase 1
+P2B3_1_5;Acetate kinase 1
+T1C3_1_21;Acetate kinase 1
+T2D9_1_19;Acetate kinase 1
+P1A10_1_28;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1A1_1_29;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1A4_1_32;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1A6_1_24;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1A8_1_23;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1D11_1_13;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1E11_1_14;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1E7_1_21;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1E8_1;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1F12_1_17;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1F7_1_21;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1F8_1_17;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1G3_1_6;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1G6_1_4;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1G9_1_3;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P2A8_1_18;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P2B2_1_21;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P2F12_1;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P2F1_1_3;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P2F4_1_3;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P3A10_1_24;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P3A11_1_26;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P3A12_1_24;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P3A6_1_26;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+T1C3_1_22;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+T1F7_1_7;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+T1F9_1_11;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+T2A2_1_22;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+T2B3_1;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+T2D11_1;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+T2F6_1_8;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+T2H3_1_22;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+T2H5_1_5;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+T3A1_1_13;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+T3B1_1_19;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+T3B5_1_2;Bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+P1A10_1_29;Alcohol dehydrogenase AdhP
+P1A1_1_30;Alcohol dehydrogenase AdhP
+P1A4_1_33;Alcohol dehydrogenase AdhP
+P1A6_1_25;Alcohol dehydrogenase AdhP
+P1A8_1_24;Alcohol dehydrogenase AdhP
+P1E11_1_15;Alcohol dehydrogenase AdhP
+P1E1_1_21;Alcohol dehydrogenase AdhP
+P1F12_1_18;Alcohol dehydrogenase AdhP
+P1F7_1_22;Alcohol dehydrogenase AdhP
+P1F8_1_18;Alcohol dehydrogenase AdhP
+P1G3_1_7;Alcohol dehydrogenase AdhP
+P1G6_1_5;Alcohol dehydrogenase AdhP
+P2B2_1_22;Alcohol dehydrogenase AdhP
+P2G10_1_12;Alcohol dehydrogenase AdhP
+P3A10_1_25;Alcohol dehydrogenase AdhP
+P3A11_1_27;Alcohol dehydrogenase AdhP
+P3A12_1_25;Alcohol dehydrogenase AdhP
+P3A6_1_27;Alcohol dehydrogenase AdhP
+P3A8_1_14;Alcohol dehydrogenase AdhP
+T1C3_1_23;Alcohol dehydrogenase AdhP
+T1F10_1_22;Alcohol dehydrogenase AdhP
+T2D9_1_20;Alcohol dehydrogenase AdhP
+T3B1_1_20;Alcohol dehydrogenase AdhP
+P3A10_1_26;Lactose permease
+P3A10_2_6;Lactose permease
+P3A4_1_2;Lactose permease
+P3B8_2_2;Lactose permease
+T3A10_1_4;Lactose permease
+T3A3_2;Lactose permease
+P1A10_1_30;Lactose phosphotransferase system repressor
+P1A10_2_4;Lactose phosphotransferase system repressor
+P1A1_1_31;Lactose phosphotransferase system repressor
+P1A1_2_4;Lactose phosphotransferase system repressor
+P1A4_1_34;Lactose phosphotransferase system repressor
+P1A4_2_5;Lactose phosphotransferase system repressor
+P1A6_2_4;Lactose phosphotransferase system repressor
+P1A8_1_25;Lactose phosphotransferase system repressor
+P1A8_2_2;Lactose phosphotransferase system repressor
+P1D11_2_4;Lactose phosphotransferase system repressor
+P1E11_1_16;Lactose phosphotransferase system repressor
+P1E1_1_22;Lactose phosphotransferase system repressor
+P1E7_1_22;Lactose phosphotransferase system repressor
+P1F12_1_19;Lactose phosphotransferase system repressor
+P1F7_2_4;Lactose phosphotransferase system repressor
+P1F8_1_19;Lactose phosphotransferase system repressor
+P1G10_1_4;Lactose phosphotransferase system repressor
+P1G2_1_8;Lactose phosphotransferase system repressor
+P1G3_2_3;Lactose phosphotransferase system repressor
+P1G3_3_2;Lactose phosphotransferase system repressor
+P2A8_1_19;Lactose phosphotransferase system repressor
+P2B1_2_2;Lactose phosphotransferase system repressor
+P2C4_1_3;Lactose phosphotransferase system repressor
+P2C4_2;Lactose phosphotransferase system repressor
+P2F6_1_4;Lactose phosphotransferase system repressor
+T1F10_1_23;Lactose phosphotransferase system repressor
+T1F10_2_4;Lactose phosphotransferase system repressor
+T1G3_2;Lactose phosphotransferase system repressor
+T2A2_1_23;Lactose phosphotransferase system repressor
+T2E12_2;Lactose phosphotransferase system repressor
+T2E1_2_2;Lactose phosphotransferase system repressor
+T2F11_2_3;Lactose phosphotransferase system repressor
+P1A4_1_35;Beta-galactosidase
+P1A6_1_26;Beta-galactosidase
+P1D11_1_14;Beta-galactosidase
+P1F4_1;Beta-galactosidase
+P1G3_1_8;Beta-galactosidase
+P1G3_2_4;Beta-galactosidase
+P2D6_1;Beta-galactosidase
+P3A10_1_27;Beta-galactosidase
+P3A10_2_7;Beta-galactosidase
+P3A10_3;Beta-galactosidase
+P3A11_1_28;Beta-galactosidase
+P3A12_1_26;Beta-galactosidase
+P3A12_2_4;Beta-galactosidase
+P3A6_1_28;Beta-galactosidase
+P3A6_2_4;Beta-galactosidase
+P3A7_1_14;Beta-galactosidase
+P3B5_3;Beta-galactosidase
+T3A9_1;Beta-galactosidase
+T3B1_1_21;Beta-galactosidase
+T3B2_2;Beta-galactosidase
+P3A10_1_28;Beta-galactosidase large subunit
+P3A11_1_29;Beta-galactosidase large subunit
+P3A12_1_27;Beta-galactosidase large subunit
+P3A4_1_3;Beta-galactosidase large subunit
+P3A6_1_29;Beta-galactosidase large subunit
+P3A8_1_15;Beta-galactosidase large subunit
+T3A1_1_14;Beta-galactosidase large subunit
+T3A4_2;Beta-galactosidase large subunit
+T3A9_1_2;Beta-galactosidase large subunit
+T3B2_1_3;Beta-galactosidase large subunit
+T3B5_2;Beta-galactosidase large subunit
+P3A10_1_29;Beta-galactosidase small subunit
+P3A11_1_30;Beta-galactosidase small subunit
+P3A12_1_28;Beta-galactosidase small subunit
+P3A6_1_30;Beta-galactosidase small subunit
+P3A8_1_16;Beta-galactosidase small subunit
+P3B6_1;Beta-galactosidase small subunit
+P1A10_1_31;Glucokinase
+P1A11_1;Glucokinase
+P1A1_1_32;Glucokinase
+P1A4_1_36;Glucokinase
+P1A6_1_27;Glucokinase
+P1A8_1_26;Glucokinase
+P1D11_1_15;Glucokinase
+P1E7_1_23;Glucokinase
+P1F3_1_11;Glucokinase
+P1F8_1_20;Glucokinase
+P1G10_1_5;Glucokinase
+P1G2_1_9;Glucokinase
+P1G3_1_9;Glucokinase
+P2A8_1_20;Glucokinase
+P2B1_1_5;Glucokinase
+P2B2_1_23;Glucokinase
+P2F10_1;Glucokinase
+P2F4_1_4;Glucokinase
+P3A10_1_30;Glucokinase
+P3A11_1_31;Glucokinase
+P3A12_1_29;Glucokinase
+P3A8_1_17;Glucokinase
+T1C3_1_24;Glucokinase
+T1F10_1_24;Glucokinase
+T1F7_1_8;Glucokinase
+T2A2_1_24;Glucokinase
+T2A7_1_6;Glucokinase
+T2D9_1_21;Glucokinase
+T2F11_1_13;Glucokinase
+T2F6_1_9;Glucokinase
+T2G11_1_9;Glucokinase
+T2H3_1_23;Glucokinase
+T2H4_1_5;Glucokinase
+T2H5_1_6;Glucokinase
+P1A10_1_32;Galactokinase
+P1A1_1_33;Galactokinase
+P1A4_1_37;Galactokinase
+P1A6_1_28;Galactokinase
+P1A8_1_27;Galactokinase
+P1D11_1_16;Galactokinase
+P1E11_1_17;Galactokinase
+P1E1_1_23;Galactokinase
+P1E2_1_2;Galactokinase
+P1E7_1_24;Galactokinase
+P1F7_1_23;Galactokinase
+P1F8_1_21;Galactokinase
+P2A8_1_21;Galactokinase
+P2B2_1_24;Galactokinase
+P2F6_1_5;Galactokinase
+P3A10_1_31;Galactokinase
+P3A11_1_32;Galactokinase
+P3A11_2_3;Galactokinase
+P3A12_1_30;Galactokinase
+P3A12_2_5;Galactokinase
+P3A6_1_31;Galactokinase
+P3A6_2_5;Galactokinase
+P3A7_1_15;Galactokinase
+P3B5_2_2;Galactokinase
+T1A12_1_2;Galactokinase
+T1A8_1;Galactokinase
+T1C3_1_25;Galactokinase
+T1C3_2_2;Galactokinase
+T1F10_1_25;Galactokinase
+T1F10_2_5;Galactokinase
+T1F7_1_9;Galactokinase
+T1F7_2;Galactokinase
+T1G1_2_3;Galactokinase
+T2C7_1_6;Galactokinase
+T2D9_1_22;Galactokinase
+T2F11_1_14;Galactokinase
+T3A1_2;Galactokinase
+T3B1_1_22;Galactokinase
+P1A10_1_33;Galactose-1-phosphate uridylyltransferase
+P1A1_1_34;Galactose-1-phosphate uridylyltransferase
+P1A4_1_38;Galactose-1-phosphate uridylyltransferase
+P1A6_1_29;Galactose-1-phosphate uridylyltransferase
+P1A8_1_28;Galactose-1-phosphate uridylyltransferase
+P1E11_1_18;Galactose-1-phosphate uridylyltransferase
+P1E3_1_3;Galactose-1-phosphate uridylyltransferase
+P1F12_1_20;Galactose-1-phosphate uridylyltransferase
+P1F3_1_12;Galactose-1-phosphate uridylyltransferase
+P1F7_1_24;Galactose-1-phosphate uridylyltransferase
+P1F8_1_22;Galactose-1-phosphate uridylyltransferase
+P1G6_1_6;Galactose-1-phosphate uridylyltransferase
+P2B2_1_25;Galactose-1-phosphate uridylyltransferase
+T1C3_1_26;Galactose-1-phosphate uridylyltransferase
+T1F10_1_26;Galactose-1-phosphate uridylyltransferase
+P1G6_1_7;Phosphoglucomutase
+P3A10_1_32;Phosphoglucomutase
+P3A11_1_33;Phosphoglucomutase
+P3A12_1_31;Phosphoglucomutase
+P3A6_1_32;Phosphoglucomutase
+T2A2_1_25;Phosphoglucomutase
+T2A4_1_2;Phosphoglucomutase
+T2E12_1_5;Phosphoglucomutase
+T2F6_1_10;Phosphoglucomutase
+T2H3_1_24;Phosphoglucomutase
+T2H4_1_6;Phosphoglucomutase
+T3A1_1_15;Phosphoglucomutase
+T3B1_1_23;Phosphoglucomutase
+P1A10_1_34;UDP-glucose 4-epimerase GalE
+P1A1_1_35;UDP-glucose 4-epimerase GalE
+P1A4_1_39;UDP-glucose 4-epimerase GalE
+P1A4_2_6;UDP-glucose 4-epimerase GalE
+P1A6_1_30;UDP-glucose 4-epimerase GalE
+P1D11_1_17;UDP-glucose 4-epimerase GalE
+P1E1_1_24;UDP-glucose 4-epimerase GalE
+P1F7_1_25;UDP-glucose 4-epimerase GalE
+P1G3_2_5;UDP-glucose 4-epimerase GalE
+P2B1_1_6;UDP-glucose 4-epimerase GalE
+P2E10_1_5;UDP-glucose 4-epimerase GalE
+P2E4_2_2;UDP-glucose 4-epimerase GalE
+P2F1_1_4;UDP-glucose 4-epimerase GalE
+P3A10_1_33;UDP-glucose 4-epimerase GalE
+P3A10_2_8;UDP-glucose 4-epimerase GalE
+P3A11_1_34;UDP-glucose 4-epimerase GalE
+P3A12_1_32;UDP-glucose 4-epimerase GalE
+P3A4_1_4;UDP-glucose 4-epimerase GalE
+T2A2_1_26;UDP-glucose 4-epimerase GalE
+T2D9_1_23;UDP-glucose 4-epimerase GalE
+T2F6_1_11;UDP-glucose 4-epimerase GalE
+T2G11_1_10;UDP-glucose 4-epimerase GalE
+T2H3_1_25;UDP-glucose 4-epimerase GalE
+T2H4_1_7;UDP-glucose 4-epimerase GalE
+T3B1_1_24;UDP-glucose 4-epimerase GalE
+P1A10_1_35;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1A1_1_36;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1A4_1_40;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1A6_1_31;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1E11_1_19;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1E1_1_25;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1E7_1_25;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1F10_1_5;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1F12_1_21;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1F7_1_26;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1F8_1_23;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1G10_1_6;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1G2_1_10;UTP--glucose-1-phosphate uridylyltransferase GalU
+P2A10_1_4;UTP--glucose-1-phosphate uridylyltransferase GalU
+P2A4_1_4;UTP--glucose-1-phosphate uridylyltransferase GalU
+P2A8_1_22;UTP--glucose-1-phosphate uridylyltransferase GalU
+P2B1_1_7;UTP--glucose-1-phosphate uridylyltransferase GalU
+P2B2_1_26;UTP--glucose-1-phosphate uridylyltransferase GalU
+P2B4_1_5;UTP--glucose-1-phosphate uridylyltransferase GalU
+P2F12_1_2;UTP--glucose-1-phosphate uridylyltransferase GalU
+P2G11_1_2;UTP--glucose-1-phosphate uridylyltransferase GalU
+P3A10_1_34;UTP--glucose-1-phosphate uridylyltransferase GalU
+P3A10_2_9;UTP--glucose-1-phosphate uridylyltransferase GalU
+P3A11_1_35;UTP--glucose-1-phosphate uridylyltransferase GalU
+P3A12_1_33;UTP--glucose-1-phosphate uridylyltransferase GalU
+P3A12_2_6;UTP--glucose-1-phosphate uridylyltransferase GalU
+P3A6_1_33;UTP--glucose-1-phosphate uridylyltransferase GalU
+P3A7_1_16;UTP--glucose-1-phosphate uridylyltransferase GalU
+T1C3_1_27;UTP--glucose-1-phosphate uridylyltransferase GalU
+T1F10_1_27;UTP--glucose-1-phosphate uridylyltransferase GalU
+T1F7_1_10;UTP--glucose-1-phosphate uridylyltransferase GalU
+T2A2_1_27;UTP--glucose-1-phosphate uridylyltransferase GalU
+T2B4_1_3;UTP--glucose-1-phosphate uridylyltransferase GalU
+T2D9_1_24;UTP--glucose-1-phosphate uridylyltransferase GalU
+T2F6_1_12;UTP--glucose-1-phosphate uridylyltransferase GalU
+T2G11_1_11;UTP--glucose-1-phosphate uridylyltransferase GalU
+T2G3_1_2;UTP--glucose-1-phosphate uridylyltransferase GalU
+T2H3_1_26;UTP--glucose-1-phosphate uridylyltransferase GalU
+T3A10_1_5;UTP--glucose-1-phosphate uridylyltransferase GalU
+T3B1_1_25;UTP--glucose-1-phosphate uridylyltransferase GalU
+P1A10_1_36;PTS system lactose-specific EIIA component
+P1A4_1_41;PTS system lactose-specific EIIA component
+P1A5_1;PTS system lactose-specific EIIA component
+P1A6_1_32;PTS system lactose-specific EIIA component
+P1E1_1_26;PTS system lactose-specific EIIA component
+P2B2_1_27;PTS system lactose-specific EIIA component
+P2B8_2_2;PTS system lactose-specific EIIA component
+T2A2_1_28;PTS system lactose-specific EIIA component
+T2C8_1_2;PTS system lactose-specific EIIA component
+P2E11_1;PTS system protein, Lactose/Cellobiose specific IIB subunit domain protein
+T1F8_1;PTS system protein, Lactose/Cellobiose specific IIB subunit domain protein
+P1G2_1_11;Lactose/cellobiose PTS transporter subunit IIB
+P1A10_1_37;Lactose-specific PTS transporter subunit EIIC
+P1A12_1;Lactose-specific PTS transporter subunit EIIC
+P1A1_1_37;Lactose-specific PTS transporter subunit EIIC
+P1A4_1_42;Lactose-specific PTS transporter subunit EIIC
+P1A6_1_33;Lactose-specific PTS transporter subunit EIIC
+P1A8_1_29;Lactose-specific PTS transporter subunit EIIC
+P1C4_1;Lactose-specific PTS transporter subunit EIIC
+P1F12_1_22;Lactose-specific PTS transporter subunit EIIC
+P1F6_1;Lactose-specific PTS transporter subunit EIIC
+P1G2_1_12;Lactose-specific PTS transporter subunit EIIC
+P1G3_1_10;Lactose-specific PTS transporter subunit EIIC
+P1G3_2_6;Lactose-specific PTS transporter subunit EIIC
+P2B2_1_28;Lactose-specific PTS transporter subunit EIIC
+P2B4_1_6;Lactose-specific PTS transporter subunit EIIC
+P2D3_1;Lactose-specific PTS transporter subunit EIIC
+P2E11_1_2;Lactose-specific PTS transporter subunit EIIC
+P2F6_1_6;Lactose-specific PTS transporter subunit EIIC
+P2G10_1_13;Lactose-specific PTS transporter subunit EIIC
+T1A6_1_2;Lactose-specific PTS transporter subunit EIIC
+T1B8_1;Lactose-specific PTS transporter subunit EIIC
+T1F7_1_11;Lactose-specific PTS transporter subunit EIIC
+T1F8_1_2;Lactose-specific PTS transporter subunit EIIC
+T1H4_1;Lactose-specific PTS transporter subunit EIIC
+T2A2_1_29;Lactose-specific PTS transporter subunit EIIC
+T2A7_1_7;Lactose-specific PTS transporter subunit EIIC
+T2B2_1_2;Lactose-specific PTS transporter subunit EIIC
+T2D6_1_5;Lactose-specific PTS transporter subunit EIIC
+T2E12_1_6;Lactose-specific PTS transporter subunit EIIC
+T2E12_2_2;Lactose-specific PTS transporter subunit EIIC
+T2F10_1;Lactose-specific PTS transporter subunit EIIC
+T2F2_2;Lactose-specific PTS transporter subunit EIIC
+T2G11_1_12;Lactose-specific PTS transporter subunit EIIC
+P1A10_1_38;6-phospho-beta-galactosidase
+P1A2_1;6-phospho-beta-galactosidase
+P1A6_1_34;6-phospho-beta-galactosidase
+P1B10_1;6-phospho-beta-galactosidase
+P1C7_1;6-phospho-beta-galactosidase
+P1E11_1_20;6-phospho-beta-galactosidase
+P1E7_1_26;6-phospho-beta-galactosidase
+P1G11_1_4;6-phospho-beta-galactosidase
+P1G3_1_11;6-phospho-beta-galactosidase
+P2B3_1_6;6-phospho-beta-galactosidase
+P2D9_1;6-phospho-beta-galactosidase
+P2E11_1_3;6-phospho-beta-galactosidase
+P2E9_1;6-phospho-beta-galactosidase
+P2F3_1_2;6-phospho-beta-galactosidase
+T1C3_1_28;6-phospho-beta-galactosidase
+T2A2_1_30;6-phospho-beta-galactosidase
+T2C7_1_7;6-phospho-beta-galactosidase
+T2E12_1_7;6-phospho-beta-galactosidase
+T2F12_1;6-phospho-beta-galactosidase
+T2F2_2_2;6-phospho-beta-galactosidase
+T2G6_1_2;6-phospho-beta-galactosidase
+T2H2_1;6-phospho-beta-galactosidase
+P1A10_1_39;PTS system galactose-specific EIIA component
+P1A4_1_43;PTS system galactose-specific EIIA component
+P1A8_1_30;PTS system galactose-specific EIIA component
+P1E4_1_5;PTS system galactose-specific EIIA component
+P1G2_1_13;PTS system galactose-specific EIIA component
+P2A8_1_23;PTS system galactose-specific EIIA component
+T1F10_1_28;PTS system galactose-specific EIIA component
+P1A10_1_40;PTS system galactose-specific EIIB component
+P1A10_1_41;PTS system galactose-specific EIIC component
+P1A1_1_38;PTS system galactose-specific EIIC component
+P1E11_1_21;PTS system galactose-specific EIIC component
+P1F8_1_24;PTS system galactose-specific EIIC component
+P2A8_1_24;PTS system galactose-specific EIIC component
+P2B2_1_29;PTS system galactose-specific EIIC component
+P2F6_1_7;PTS system galactose-specific EIIC component
+T1B7_1_2;PTS system galactose-specific EIIC component
+T1C3_1_29;PTS system galactose-specific EIIC component
+T2F11_1_15;PTS system galactose-specific EIIC component
+P1A10_1_42;Galactose-6-phosphate isomerase subunit LacA
+P1A4_1_44;Galactose-6-phosphate isomerase subunit LacA
+P1F12_1_23;Galactose-6-phosphate isomerase subunit LacA
+P1F8_1_25;Galactose-6-phosphate isomerase subunit LacA
+P2B8_1_3;Galactose-6-phosphate isomerase subunit LacA
+P2F7_1;Galactose-6-phosphate isomerase subunit LacA
+T1F10_1_29;Galactose-6-phosphate isomerase subunit LacA
+T1G1_1_6;Galactose-6-phosphate isomerase subunit LacA
+T2A2_1_31;Galactose-6-phosphate isomerase subunit LacA
+T2C8_1_3;Galactose-6-phosphate isomerase subunit LacA
+P1A10_1_43;Galactose-6-phosphate isomerase subunit LacB
+P1A4_1_45;Galactose-6-phosphate isomerase subunit LacB
+P1A6_1_35;Galactose-6-phosphate isomerase subunit LacB
+P1E7_1_27;Galactose-6-phosphate isomerase subunit LacB
+P1F12_1_24;Galactose-6-phosphate isomerase subunit LacB
+P1F7_1_27;Galactose-6-phosphate isomerase subunit LacB
+P2G10_1_14;Galactose-6-phosphate isomerase subunit LacB
+P2H3_1;Galactose-6-phosphate isomerase subunit LacB
+T1A5_1;Galactose-6-phosphate isomerase subunit LacB
+T2A2_1_32;Galactose-6-phosphate isomerase subunit LacB
+T2A4_1_3;Galactose-6-phosphate isomerase subunit LacB
+T2A9_1;Galactose-6-phosphate isomerase subunit LacB
+T2C7_1_8;Galactose-6-phosphate isomerase subunit LacB
+T2E12_2_3;Galactose-6-phosphate isomerase subunit LacB
+T2E4_1;Galactose-6-phosphate isomerase subunit LacB
+T2G12_1;Galactose-6-phosphate isomerase subunit LacB
+P1A10_1_44;Tagatose-6-phosphate kinase
+P1A1_1_39;Tagatose-6-phosphate kinase
+P1F12_1_25;Tagatose-6-phosphate kinase
+P2B3_1_7;Tagatose-6-phosphate kinase
+P2C4_2_2;Tagatose-6-phosphate kinase
+T1F10_1_30;Tagatose-6-phosphate kinase
+T1H1_1;Tagatose-6-phosphate kinase
+T2A2_1_33;Tagatose-6-phosphate kinase
+T2A2_2_2;Tagatose-6-phosphate kinase
+T2B4_1_4;Tagatose-6-phosphate kinase
+T2F2_1;Tagatose-6-phosphate kinase
+T2F5_1;Tagatose-6-phosphate kinase
+T2F5_2;Tagatose-6-phosphate kinase
+T2F6_1_13;Tagatose-6-phosphate kinase
+T2H3_1_27;Tagatose-6-phosphate kinase
+P1A10_1_45;Tagatose-bisphosphate aldolase
+P1A4_1_46;Tagatose-bisphosphate aldolase
+P1A6_1_36;Tagatose-bisphosphate aldolase
+P1A8_1_31;Tagatose-bisphosphate aldolase
+P1G3_1_12;Tagatose-bisphosphate aldolase
+P1G5_1_2;Tagatose-bisphosphate aldolase
+P2F1_1_5;Tagatose-bisphosphate aldolase
+P2G2_1;Tagatose-bisphosphate aldolase
+P2G4_1;Tagatose-bisphosphate aldolase
+T2A2_1_34;Tagatose-bisphosphate aldolase
+T2D9_1_25;Tagatose-bisphosphate aldolase
+T2F11_1_16;Tagatose-bisphosphate aldolase
+P1A10_1_46;6-phosphofructokinase
+P1A4_1_47;6-phosphofructokinase
+P1E7_1_28;6-phosphofructokinase
+P1F12_1_26;6-phosphofructokinase
+P1G3_1_13;6-phosphofructokinase
+P1G6_1_8;6-phosphofructokinase
+P2A3_1;6-phosphofructokinase
+P2B11_1;6-phosphofructokinase
+P2B2_1_30;6-phosphofructokinase
+P2E4_1_6;6-phosphofructokinase
+T1C3_1_30;6-phosphofructokinase
+T2A2_1_35;6-phosphofructokinase
+T2D9_1_26;6-phosphofructokinase
+T2F11_1_17;6-phosphofructokinase
+T2H3_2_2;6-phosphofructokinase
+P1A10_1_47;phosphopyruvate hydratase
+P1A10_2_5;phosphopyruvate hydratase
+P1A1_1_40;phosphopyruvate hydratase
+P1A1_2_5;phosphopyruvate hydratase
+P1A4_1_48;phosphopyruvate hydratase
+P1A4_2_7;phosphopyruvate hydratase
+P1A8_1_32;phosphopyruvate hydratase
+P1E11_2_3;phosphopyruvate hydratase
+P1E1_1_27;phosphopyruvate hydratase
+P1E7_2_3;phosphopyruvate hydratase
+P1F3_1_13;phosphopyruvate hydratase
+P1F3_2;phosphopyruvate hydratase
+P1F7_1_28;phosphopyruvate hydratase
+P1F8_1_26;phosphopyruvate hydratase
+P1F8_2_3;phosphopyruvate hydratase
+P1G2_2_3;phosphopyruvate hydratase
+P1G3_1_14;phosphopyruvate hydratase
+P1G3_2_7;phosphopyruvate hydratase
+P2A8_1_25;phosphopyruvate hydratase
+P2B2_1_31;phosphopyruvate hydratase
+P2F6_1_8;phosphopyruvate hydratase
+P2G10_2_2;phosphopyruvate hydratase
+P3A10_1_35;phosphopyruvate hydratase
+P3A11_1_36;phosphopyruvate hydratase
+P3A12_1_34;phosphopyruvate hydratase
+P3A8_1_18;phosphopyruvate hydratase
+T1C3_1_31;phosphopyruvate hydratase
+T1C3_2_3;phosphopyruvate hydratase
+T1F10_1_31;phosphopyruvate hydratase
+T2A1_1;phosphopyruvate hydratase
+T2A2_1_36;phosphopyruvate hydratase
+T2C7_2;phosphopyruvate hydratase
+T2D9_1_27;phosphopyruvate hydratase
+T2D9_2_3;phosphopyruvate hydratase
+T2H5_1_7;phosphopyruvate hydratase
+T3B1_1_26;phosphopyruvate hydratase
+P1A10_1_48;pyruvate kinase
+P1A1_1_41;pyruvate kinase
+P1A4_1_49;pyruvate kinase
+P1A6_1_37;pyruvate kinase
+P1A6_2_5;pyruvate kinase
+P1A8_1_33;pyruvate kinase
+P1D11_1_18;pyruvate kinase
+P1E11_1_22;pyruvate kinase
+P1E1_1_28;pyruvate kinase
+P1E4_1_6;pyruvate kinase
+P1E7_1_29;pyruvate kinase
+P1F7_1_29;pyruvate kinase
+P1G2_1_14;pyruvate kinase
+P1G6_1_9;pyruvate kinase
+P2A8_1_26;pyruvate kinase
+P2B2_1_32;pyruvate kinase
+P2G10_1_15;pyruvate kinase
+P3A10_1_36;pyruvate kinase
+P3A11_1_37;pyruvate kinase
+P3A12_1_35;pyruvate kinase
+P3A6_1_34;pyruvate kinase
+P3A7_1_17;pyruvate kinase
+P3B5_1_5;pyruvate kinase
+T1C3_1_32;pyruvate kinase
+T1F10_1_32;pyruvate kinase
+T1F7_1_12;pyruvate kinase
+T2A2_1_37;pyruvate kinase
+T2D6_1_6;pyruvate kinase
+T2D9_1_28;pyruvate kinase
+T2H4_1_8;pyruvate kinase
+T3A10_1_6;pyruvate kinase
+T3A1_1_16;pyruvate kinase
+T3B1_1_27;pyruvate kinase
+T3B8_1_7;pyruvate kinase
+P1A10_1_49;1-phosphofructokinase
+P1A1_1_42;1-phosphofructokinase
+P1A4_1_50;1-phosphofructokinase
+P1D12_1_2;1-phosphofructokinase
+P1E1_1_29;1-phosphofructokinase
+P1E7_1_30;1-phosphofructokinase
+P1F12_1_27;1-phosphofructokinase
+P1G3_1_15;1-phosphofructokinase
+P2A4_1_5;1-phosphofructokinase
+P2F1_1_6;1-phosphofructokinase
+P2G10_1_16;1-phosphofructokinase
+T1C3_1_33;1-phosphofructokinase
+T1F10_1_33;1-phosphofructokinase
+T1F9_1_12;1-phosphofructokinase
+T2A2_1_38;1-phosphofructokinase
+T2E12_1_8;1-phosphofructokinase
+T2H3_1_28;1-phosphofructokinase
+P1A10_1_50;Acetolactate synthase AlsS
+P1A1_1_43;Acetolactate synthase AlsS
+P1A4_1_51;Acetolactate synthase AlsS
+P1E1_1_30;Acetolactate synthase AlsS
+P1E7_1_31;Acetolactate synthase AlsS
+P2A8_1_27;Acetolactate synthase AlsS
+P2B2_1_33;Acetolactate synthase AlsS
+P2F1_1_7;Acetolactate synthase AlsS
+P3A10_1_37;Acetolactate synthase AlsS
+P3A11_1_38;Acetolactate synthase AlsS
+P3A12_1_36;Acetolactate synthase AlsS
+P3A6_1_35;Acetolactate synthase AlsS
+P3A8_1_19;Acetolactate synthase AlsS
+P3B5_1_6;Acetolactate synthase AlsS
+T1C3_1_34;Acetolactate synthase AlsS
+T1F10_1_34;Acetolactate synthase AlsS
+T1F9_1_13;Acetolactate synthase AlsS
+T2A2_1_39;Acetolactate synthase AlsS
+T2C7_1_9;Acetolactate synthase AlsS
+T2G11_1_13;Acetolactate synthase AlsS
+T2H3_1_29;Acetolactate synthase AlsS
+T2H5_1_8;Acetolactate synthase AlsS
+T3A7_1;Acetolactate synthase AlsS
+T3B1_1_28;Acetolactate synthase AlsS
+P1A10_1_51;Alpha-acetolactate decarboxylase
+P1A1_1_44;Alpha-acetolactate decarboxylase
+P1A1_2_6;Alpha-acetolactate decarboxylase
+P1A4_1_52;Alpha-acetolactate decarboxylase
+P1A8_2_3;Alpha-acetolactate decarboxylase
+P1E11_2_4;Alpha-acetolactate decarboxylase
+P1E1_2_4;Alpha-acetolactate decarboxylase
+P1E7_2_4;Alpha-acetolactate decarboxylase
+P1F12_1_28;Alpha-acetolactate decarboxylase
+P1F7_1_30;Alpha-acetolactate decarboxylase
+P1F8_2_4;Alpha-acetolactate decarboxylase
+P1G2_4;Alpha-acetolactate decarboxylase
+P2A12_2;Alpha-acetolactate decarboxylase
+P2A8_1_28;Alpha-acetolactate decarboxylase
+P2B2_2_3;Alpha-acetolactate decarboxylase
+P2B3_1_8;Alpha-acetolactate decarboxylase
+P2F5_1_3;Alpha-acetolactate decarboxylase
+P2F6_3;Alpha-acetolactate decarboxylase
+T1A7_1;Alpha-acetolactate decarboxylase
+T1C3_1_35;Alpha-acetolactate decarboxylase
+T1F10_1_35;Alpha-acetolactate decarboxylase
+T1F10_2_6;Alpha-acetolactate decarboxylase
+T1F2_2;Alpha-acetolactate decarboxylase
+T1F9_1_14;Alpha-acetolactate decarboxylase
+T1F9_2_5;Alpha-acetolactate decarboxylase
+P1A10_1_52;Acetolactate decarboxylase
+P1A1_1_45;Acetolactate decarboxylase
+P1A4_1_53;Acetolactate decarboxylase
+P1A6_1_38;Acetolactate decarboxylase
+P1E6_1;Acetolactate decarboxylase
+P1E7_1_32;Acetolactate decarboxylase
+P1G3_1_16;Acetolactate decarboxylase
+P2F3_2;Acetolactate decarboxylase
+P2F3_3;Acetolactate decarboxylase
+P2F6_1_9;Acetolactate decarboxylase
+P2F7_2;Acetolactate decarboxylase
+P2F7_3;Acetolactate decarboxylase
+P2G11_1_3;Acetolactate decarboxylase
+P3A10_1_38;Acetolactate decarboxylase
+P3A11_1_39;Acetolactate decarboxylase
+P3A12_1_37;Acetolactate decarboxylase
+P3A6_1_36;Acetolactate decarboxylase
+T1C2_2;Acetolactate decarboxylase
+T1C3_1_36;Acetolactate decarboxylase
+T1F10_1_36;Acetolactate decarboxylase
+T1F7_1_13;Acetolactate decarboxylase
+T2A2_1_40;Acetolactate decarboxylase
+T2D1_2;Acetolactate decarboxylase
+P1A10_1_53;(S)-acetoin forming diacetyl reductase
+P1A4_1_54;(S)-acetoin forming diacetyl reductase
+P1A6_1_39;(S)-acetoin forming diacetyl reductase
+P1D11_1_19;(S)-acetoin forming diacetyl reductase
+P1E1_1_31;(S)-acetoin forming diacetyl reductase
+P1E7_1_33;(S)-acetoin forming diacetyl reductase
+P1F8_1_27;(S)-acetoin forming diacetyl reductase
+P2A8_1_29;(S)-acetoin forming diacetyl reductase
+P2B2_1_34;(S)-acetoin forming diacetyl reductase
+P3A10_1_39;(S)-acetoin forming diacetyl reductase
+P3A11_1_40;(S)-acetoin forming diacetyl reductase
+P3A12_1_38;(S)-acetoin forming diacetyl reductase
+T1C3_1_37;(S)-acetoin forming diacetyl reductase
+T1F10_1_37;(S)-acetoin forming diacetyl reductase
+T2H4_1_9;(S)-acetoin forming diacetyl reductase
+T3A1_1_17;(S)-acetoin forming diacetyl reductase
+T3B1_2_2;(S)-acetoin forming diacetyl reductase
+P1A10_1_54;Diacetyl reductase [(S)-acetoin forming]
+P1A1_1_46;Diacetyl reductase [(S)-acetoin forming]
+P1A8_1_34;Diacetyl reductase [(S)-acetoin forming]
+P1E11_1_23;Diacetyl reductase [(S)-acetoin forming]
+P1E1_1_32;Diacetyl reductase [(S)-acetoin forming]
+P1F7_1_31;Diacetyl reductase [(S)-acetoin forming]
+P1F8_1_28;Diacetyl reductase [(S)-acetoin forming]
+P3A11_1_41;Diacetyl reductase [(S)-acetoin forming]
+P3A6_1_37;Diacetyl reductase [(S)-acetoin forming]
+P3A8_1_20;Diacetyl reductase [(S)-acetoin forming]
+T1C3_1_38;Diacetyl reductase [(S)-acetoin forming]
+T1F10_1_38;Diacetyl reductase [(S)-acetoin forming]
+T1F9_1_15;Diacetyl reductase [(S)-acetoin forming]
+T2D9_1_29;Diacetyl reductase [(S)-acetoin forming]
+P1A1_1_47;Acetoin reductase
+P1A8_1_35;Acetoin reductase
+P1E11_1_24;Acetoin reductase
+T2D9_1_30;Acetoin reductase
+T1F10_1_39;(R,R)-butanediol dehydrogenase
+P1A1_1_48;Acetoin dehydrogenase
+P1A8_1_36;Acetoin dehydrogenase
+T2D9_1_31;Acetoin dehydrogenase
+P1A10_1_55;L-lactate dehydrogenase
+P1A10_2_6;L-lactate dehydrogenase
+P1A10_3;L-lactate dehydrogenase
+P1A1_1_49;L-lactate dehydrogenase
+P1A1_2_7;L-lactate dehydrogenase
+P1A1_3;L-lactate dehydrogenase
+P1A4_1_55;L-lactate dehydrogenase
+P1A4_2_8;L-lactate dehydrogenase
+P1A4_3_2;L-lactate dehydrogenase
+P1A4_4;L-lactate dehydrogenase
+P1A6_3_2;L-lactate dehydrogenase
+P1A8_1_37;L-lactate dehydrogenase
+P1A8_2_4;L-lactate dehydrogenase
+P1A8_3;L-lactate dehydrogenase
+P1D8_3;L-lactate dehydrogenase
+P1E1_1_33;L-lactate dehydrogenase
+P1E1_2_5;L-lactate dehydrogenase
+P1E1_3;L-lactate dehydrogenase
+P1E7_2_5;L-lactate dehydrogenase
+P1F12_1_29;L-lactate dehydrogenase
+P1F3_3;L-lactate dehydrogenase
+P1F7_2_5;L-lactate dehydrogenase
+P1F8_1_29;L-lactate dehydrogenase
+P1F8_2_5;L-lactate dehydrogenase
+P1F8_3;L-lactate dehydrogenase
+P2A4_1_6;L-lactate dehydrogenase
+P2A8_2_3;L-lactate dehydrogenase
+P2A8_3;L-lactate dehydrogenase
+P2B2_1_35;L-lactate dehydrogenase
+P2B3_1_9;L-lactate dehydrogenase
+P2B4_2_2;L-lactate dehydrogenase
+P2E4_1_7;L-lactate dehydrogenase
+P2G10_2_3;L-lactate dehydrogenase
+P3A10_1_40;L-lactate dehydrogenase
+T1C3_2_4;L-lactate dehydrogenase
+T1F10_1_40;L-lactate dehydrogenase
+T1F10_3;L-lactate dehydrogenase
+T1F7_1_14;L-lactate dehydrogenase
+T2A2_1_41;L-lactate dehydrogenase
+T2A2_2_3;L-lactate dehydrogenase
+T2C7_2_2;L-lactate dehydrogenase
+T2D9_1_32;L-lactate dehydrogenase
+T2H3_1_30;L-lactate dehydrogenase
+T2H3_2_3;L-lactate dehydrogenase
+P1A4_1_56;L-lactate oxidase
+P1A6_1_40;L-lactate oxidase
+P1D11_1_20;L-lactate oxidase
+P1E2_1_3;L-lactate oxidase
+P1F12_1_30;L-lactate oxidase
+P1F12_2_3;L-lactate oxidase
+P1G3_1_17;L-lactate oxidase
+P2F1_1_8;L-lactate oxidase
+T2A2_1_42;L-lactate oxidase
+T2B4_1_5;L-lactate oxidase
+T2H3_1_31;L-lactate oxidase
+P3A10_1_41;Lipase
+T2A2_1_43;Lipase (Class 3)
+T2H3_1_32;Lipase (Class 3)
+T2H4_1_10;Lipase (Class 3)
+T2H5_1_9;Lipase (Class 3)
+P3A10_1_42;Phospholipase
+P2E4_1_8;Nisin-resistance protein
+P3A12_1_39;Nisin-resistance protein
+P3A6_1_38;Nisin-resistance protein
+T3B1_1_29;Nisin-resistance protein
+P1A10_1_56;Bacteriocin immunity protein
+P1A10_2_7;Bacteriocin immunity protein
+P1A10_3_2;Bacteriocin immunity protein
+P1A10_4;Bacteriocin immunity protein
+P1A10_5;Bacteriocin immunity protein
+P1A1_1_50;Bacteriocin immunity protein
+P1A1_2_8;Bacteriocin immunity protein
+P1A1_3_2;Bacteriocin immunity protein
+P1A4_1_57;Bacteriocin immunity protein
+P1A4_2_9;Bacteriocin immunity protein
+P1A4_3_3;Bacteriocin immunity protein
+P1A6_1_41;Bacteriocin immunity protein
+P1A6_3_3;Bacteriocin immunity protein
+P1A8_1_38;Bacteriocin immunity protein
+P1A8_2_5;Bacteriocin immunity protein
+P1A8_3_2;Bacteriocin immunity protein
+P1B1_1;Bacteriocin immunity protein
+P1D11_1_21;Bacteriocin immunity protein
+P1D8_2;Bacteriocin immunity protein
+P1E1_1_34;Bacteriocin immunity protein
+P1E1_2_6;Bacteriocin immunity protein
+P1E1_3_2;Bacteriocin immunity protein
+P1E1_4;Bacteriocin immunity protein
+P1E7_1_34;Bacteriocin immunity protein
+P1E7_4;Bacteriocin immunity protein
+P1F12_4;Bacteriocin immunity protein
+P1F8_2_6;Bacteriocin immunity protein
+P1G10_2_3;Bacteriocin immunity protein
+P2A10_1_5;Bacteriocin immunity protein
+P2A8_2_4;Bacteriocin immunity protein
+P2B11_2_2;Bacteriocin immunity protein
+P2B2_5;Bacteriocin immunity protein
+P2G11_3;Bacteriocin immunity protein
+P3A10_1_43;Bacteriocin immunity protein
+P3A10_2_10;Bacteriocin immunity protein
+P3A10_3_2;Bacteriocin immunity protein
+P3A10_4;Bacteriocin immunity protein
+P3A11_1_42;Bacteriocin immunity protein
+P3A6_1_39;Bacteriocin immunity protein
+P3A8_1_21;Bacteriocin immunity protein
+T1C3_1_39;Bacteriocin immunity protein
+T1C3_3;Bacteriocin immunity protein
+T1F10_1_41;Bacteriocin immunity protein
+T1F10_2_7;Bacteriocin immunity protein
+T2A12_3;Bacteriocin immunity protein
+T2A2_1_44;Bacteriocin immunity protein
+T2A2_2_4;Bacteriocin immunity protein
+T2A2_3_2;Bacteriocin immunity protein
+T2A2_4_2;Bacteriocin immunity protein
+T2D9_3;Bacteriocin immunity protein
+T2D9_4;Bacteriocin immunity protein
+T2E12_5;Bacteriocin immunity protein
+T2F6_1_14;Bacteriocin immunity protein
+T2F6_3_2;Bacteriocin immunity protein
+T2H3_1_33;Bacteriocin immunity protein
+T2H3_3_2;Bacteriocin immunity protein
+T2H5_1_10;Bacteriocin immunity protein
+T2H5_2_2;Bacteriocin immunity protein
+T3A10_1_7;Bacteriocin immunity protein
+T3B1_1_30;Bacteriocin immunity protein
+T2H3_1_34;Bacteriocin-associated integral membrane (Putative immunity) protein
+P3A6_1_40;ABC-type bacteriocin transporter
+P3A8_1_22;ABC-type bacteriocin transporter
+T3A1_1_18;ABC-type bacteriocin transporter
+P1A6_1_42;Bacteriocin ABC transporter ATP-binding protein
+P3A10_1_44;Bacteriocin ABC transporter ATP-binding protein
+P1E2_1_4;ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain
+T2A2_1_45;Lantibiotic protection ABC transporter ATP-binding subunit
+P1A10_1_57;Putative N-acetylmuramidase
+P1A1_1_51;Putative N-acetylmuramidase
+P1A4_1_58;Putative N-acetylmuramidase
+P1A6_1_43;Putative N-acetylmuramidase
+P1A8_1_39;Putative N-acetylmuramidase
+P1D11_1_22;Putative N-acetylmuramidase
+P1E11_1_25;Putative N-acetylmuramidase
+P1E1_1_35;Putative N-acetylmuramidase
+P1E7_1_35;Putative N-acetylmuramidase
+P1F12_1_31;Putative N-acetylmuramidase
+P1F7_1_32;Putative N-acetylmuramidase
+P1G2_1_15;Putative N-acetylmuramidase
+P2A8_1_30;Putative N-acetylmuramidase
+P2B2_1_36;Putative N-acetylmuramidase
+P2F8_1;Putative N-acetylmuramidase
+P2G10_1_17;Putative N-acetylmuramidase
+T1C3_1_40;Putative N-acetylmuramidase
+T1F10_1_42;Putative N-acetylmuramidase
+T2C7_1_10;Putative N-acetylmuramidase
+T2D9_1_33;Putative N-acetylmuramidase
+P1A10_1_58;F0F1 ATP synthase subunit alpha
+P1A1_1_52;F0F1 ATP synthase subunit alpha
+P1A4_1_59;F0F1 ATP synthase subunit alpha
+P1A8_1_40;F0F1 ATP synthase subunit alpha
+P1E11_1_26;F0F1 ATP synthase subunit alpha
+P1E1_1_36;F0F1 ATP synthase subunit alpha
+P1E7_1_36;F0F1 ATP synthase subunit alpha
+P1F8_1_30;F0F1 ATP synthase subunit alpha
+P1G6_1_10;F0F1 ATP synthase subunit alpha
+P2A8_1_31;F0F1 ATP synthase subunit alpha
+P2F1_1_9;F0F1 ATP synthase subunit alpha
+P2F6_1_10;F0F1 ATP synthase subunit alpha
+P2G10_1_18;F0F1 ATP synthase subunit alpha
+P2G11_1_4;F0F1 ATP synthase subunit alpha
+P3A10_1_45;F0F1 ATP synthase subunit alpha
+P3A11_1_43;F0F1 ATP synthase subunit alpha
+P3A12_1_40;F0F1 ATP synthase subunit alpha
+P3A6_1_41;F0F1 ATP synthase subunit alpha
+P3A8_1_23;F0F1 ATP synthase subunit alpha
+T1D3_1_2;F0F1 ATP synthase subunit alpha
+T1F9_1_16;F0F1 ATP synthase subunit alpha
+T2A2_1_46;F0F1 ATP synthase subunit alpha
+T2A7_1_8;F0F1 ATP synthase subunit alpha
+T2B2_1_3;F0F1 ATP synthase subunit alpha
+T2D2_1;F0F1 ATP synthase subunit alpha
+T2D6_1_7;F0F1 ATP synthase subunit alpha
+T2F6_1_15;F0F1 ATP synthase subunit alpha
+T2H3_1_35;F0F1 ATP synthase subunit alpha
+T2H4_1_11;F0F1 ATP synthase subunit alpha
+T3B1_1_31;F0F1 ATP synthase subunit alpha
+P1A10_1_59;F0F1 ATP synthase subunit A
+P1A1_1_53;F0F1 ATP synthase subunit A
+P1A4_1_60;F0F1 ATP synthase subunit A
+P1A6_1_44;F0F1 ATP synthase subunit A
+P1E1_1_37;F0F1 ATP synthase subunit A
+P1F12_1_32;F0F1 ATP synthase subunit A
+P2F1_1_10;F0F1 ATP synthase subunit A
+P3A10_1_46;F0F1 ATP synthase subunit A
+P3A11_1_44;F0F1 ATP synthase subunit A
+P3A12_1_41;F0F1 ATP synthase subunit A
+P3A4_1_5;F0F1 ATP synthase subunit A
+P3A6_1_42;F0F1 ATP synthase subunit A
+T1F10_1_43;F0F1 ATP synthase subunit A
+T1F7_1_15;F0F1 ATP synthase subunit A
+T2A2_1_47;F0F1 ATP synthase subunit A
+T2B7_1_5;F0F1 ATP synthase subunit A
+T2F6_1_16;F0F1 ATP synthase subunit A
+T2H3_1_36;F0F1 ATP synthase subunit A
+P1A10_1_60;F0F1 ATP synthase subunit epsilon
+P1A1_1_54;F0F1 ATP synthase subunit epsilon
+P1A4_1_61;F0F1 ATP synthase subunit epsilon
+P1E11_1_27;F0F1 ATP synthase subunit epsilon
+P1F3_1_14;F0F1 ATP synthase subunit epsilon
+P1F8_1_31;F0F1 ATP synthase subunit epsilon
+P1G2_1_16;F0F1 ATP synthase subunit epsilon
+P3A10_1_47;F0F1 ATP synthase subunit epsilon
+P3A11_1_45;F0F1 ATP synthase subunit epsilon
+P3A12_1_42;F0F1 ATP synthase subunit epsilon
+P3A6_1_43;F0F1 ATP synthase subunit epsilon
+P3A8_1_24;F0F1 ATP synthase subunit epsilon
+T2A2_1_48;F0F1 ATP synthase subunit epsilon
+T2H5_1_11;F0F1 ATP synthase subunit epsilon
+T3B1_1_32;F0F1 ATP synthase subunit epsilon
+P1A10_1_61;F0F1 ATP synthase subunit beta
+P1A1_1_55;F0F1 ATP synthase subunit beta
+P1A4_1_62;F0F1 ATP synthase subunit beta
+P1A8_1_41;F0F1 ATP synthase subunit beta
+P1E11_1_28;F0F1 ATP synthase subunit beta
+P1E1_1_38;F0F1 ATP synthase subunit beta
+P1F8_1_32;F0F1 ATP synthase subunit beta
+P1G10_1_7;F0F1 ATP synthase subunit beta
+P1G3_1_18;F0F1 ATP synthase subunit beta
+P1G6_1_11;F0F1 ATP synthase subunit beta
+P2B2_1_37;F0F1 ATP synthase subunit beta
+P2F1_1_11;F0F1 ATP synthase subunit beta
+P2F5_1_4;F0F1 ATP synthase subunit beta
+P3A10_1_48;F0F1 ATP synthase subunit beta
+P3A11_1_46;F0F1 ATP synthase subunit beta
+P3A12_1_43;F0F1 ATP synthase subunit beta
+P3A6_1_44;F0F1 ATP synthase subunit beta
+P3A8_1_25;F0F1 ATP synthase subunit beta
+T1F10_1_44;F0F1 ATP synthase subunit beta
+T1G1_1_7;F0F1 ATP synthase subunit beta
+T2A2_1_49;F0F1 ATP synthase subunit beta
+T2C8_1_4;F0F1 ATP synthase subunit beta
+T2D9_1_34;F0F1 ATP synthase subunit beta
+T3A6_1;F0F1 ATP synthase subunit beta
+P1A10_1_62;F0F1 ATP synthase subunit C
+P1A1_1_56;F0F1 ATP synthase subunit C
+P1A4_1_63;F0F1 ATP synthase subunit C
+P1G11_1_5;F0F1 ATP synthase subunit C
+P3A10_1_49;F0F1 ATP synthase subunit C
+P3A11_1_47;F0F1 ATP synthase subunit C
+T1F10_1_45;F0F1 ATP synthase subunit C
+T2A2_1_50;F0F1 ATP synthase subunit C
+T3B8_1_8;F0F1 ATP synthase subunit C
+P1A10_1_63;F0F1 ATP synthase subunit B
+P1A4_1_64;F0F1 ATP synthase subunit B
+P1E7_1_37;F0F1 ATP synthase subunit B
+P1F12_1_33;F0F1 ATP synthase subunit B
+P1F3_1_15;F0F1 ATP synthase subunit B
+P3A10_1_50;F0F1 ATP synthase subunit B
+P3A11_1_48;F0F1 ATP synthase subunit B
+P3A12_1_44;F0F1 ATP synthase subunit B
+P3A8_1_26;F0F1 ATP synthase subunit B
+T2A2_1_51;F0F1 ATP synthase subunit B
+P1A10_1_64;F0F1 ATP synthase subunit gamma
+P1A1_1_57;F0F1 ATP synthase subunit gamma
+P1A4_1_65;F0F1 ATP synthase subunit gamma
+P1A6_1_45;F0F1 ATP synthase subunit gamma
+P1A8_1_42;F0F1 ATP synthase subunit gamma
+P1E11_1_29;F0F1 ATP synthase subunit gamma
+P1E1_1_39;F0F1 ATP synthase subunit gamma
+P2G10_1_19;F0F1 ATP synthase subunit gamma
+P2G11_1_5;F0F1 ATP synthase subunit gamma
+P3A10_1_51;F0F1 ATP synthase subunit gamma
+P3A11_1_49;F0F1 ATP synthase subunit gamma
+P3A12_1_45;F0F1 ATP synthase subunit gamma
+P3A6_1_45;F0F1 ATP synthase subunit gamma
+P3B5_1_7;F0F1 ATP synthase subunit gamma
+T2A2_1_52;F0F1 ATP synthase subunit gamma
+T2A8_1_2;F0F1 ATP synthase subunit gamma
+T2C7_1_11;F0F1 ATP synthase subunit gamma
+T2D9_1_35;F0F1 ATP synthase subunit gamma
+T2H3_1_37;F0F1 ATP synthase subunit gamma
+T3B1_1_33;F0F1 ATP synthase subunit gamma
+P1A10_1_65;F0F1 ATP synthase subunit delta
+P1A1_1_58;F0F1 ATP synthase subunit delta
+P1A4_1_66;F0F1 ATP synthase subunit delta
+P1A6_1_46;F0F1 ATP synthase subunit delta
+P1E1_1_40;F0F1 ATP synthase subunit delta
+T2A2_1_53;F0F1 ATP synthase subunit delta
+T2D9_1_36;F0F1 ATP synthase subunit delta
+T2H3_1_38;F0F1 ATP synthase subunit delta
+P1A10_1_66;Arginine deiminase
+P1A1_1_59;Arginine deiminase
+P1A4_1_67;Arginine deiminase
+P1A8_1_43;Arginine deiminase
+P1B7_1;Arginine deiminase
+P1E11_1_30;Arginine deiminase
+P1E1_1_41;Arginine deiminase
+P1E4_1_7;Arginine deiminase
+P1E7_1_38;Arginine deiminase
+P1F7_1_33;Arginine deiminase
+P1F7_2_6;Arginine deiminase
+P1F8_1_33;Arginine deiminase
+P1H1_1;Arginine deiminase
+P2A4_1_7;Arginine deiminase
+P2A8_1_32;Arginine deiminase
+P2B2_1_38;Arginine deiminase
+P2F3_2_2;Arginine deiminase
+T1C3_1_41;Arginine deiminase
+T1F10_1_46;Arginine deiminase
+T2C7_1_12;Arginine deiminase
+T2D9_1_37;Arginine deiminase
+T2F11_1_18;Arginine deiminase
+P1A10_1_67;Carbamate kinase
+P1A10_2_8;Carbamate kinase
+P1A1_1_60;Carbamate kinase
+P1A1_2_9;Carbamate kinase
+P1A4_1_68;Carbamate kinase
+P1A4_2_10;Carbamate kinase
+P1A4_3_4;Carbamate kinase
+P1A6_1_47;Carbamate kinase
+P1A6_2_6;Carbamate kinase
+P1A6_3_4;Carbamate kinase
+P1A8_1_44;Carbamate kinase
+P1A8_2_6;Carbamate kinase
+P1D11_1_23;Carbamate kinase
+P1D11_3_2;Carbamate kinase
+P1D8_2_2;Carbamate kinase
+P1E11_2_5;Carbamate kinase
+P1E12_1_3;Carbamate kinase
+P1E1_1_42;Carbamate kinase
+P1E7_1_39;Carbamate kinase
+P1F12_2_4;Carbamate kinase
+P1F12_3;Carbamate kinase
+P1F3_2_2;Carbamate kinase
+P1F3_3_2;Carbamate kinase
+P1F7_1_34;Carbamate kinase
+P1F7_2_7;Carbamate kinase
+P1F8_1_34;Carbamate kinase
+P1G2_2_4;Carbamate kinase
+P2A8_2_5;Carbamate kinase
+P2B2_1_39;Carbamate kinase
+P2B8_1_4;Carbamate kinase
+P2B9_1_6;Carbamate kinase
+P2G10_3_2;Carbamate kinase
+T1C3_1_42;Carbamate kinase
+T1F10_1_47;Carbamate kinase
+T1F10_2_8;Carbamate kinase
+T1F7_1_16;Carbamate kinase
+T1F7_2_2;Carbamate kinase
+T1F7_3;Carbamate kinase
+T1F7_4;Carbamate kinase
+T2A2_1_54;Carbamate kinase
+T2B4_1_6;Carbamate kinase
+T2D9_2_4;Carbamate kinase
+T2F6_1_17;Carbamate kinase
+T2H3_1_39;Carbamate kinase
+T2H4_1_12;Carbamate kinase
+P1A10_1_68;Glutamate decarboxylase
+P1A1_1_61;Glutamate decarboxylase
+P1A1_2_10;Glutamate decarboxylase
+P1A4_1_69;Glutamate decarboxylase
+P1A6_1_48;Glutamate decarboxylase
+P1A8_1_45;Glutamate decarboxylase
+P1D11_1_24;Glutamate decarboxylase
+P1D8_2_3;Glutamate decarboxylase
+P1E11_1_31;Glutamate decarboxylase
+P1E1_1_43;Glutamate decarboxylase
+P1E7_1_40;Glutamate decarboxylase
+P1F7_1_35;Glutamate decarboxylase
+P1G2_1_17;Glutamate decarboxylase
+P1G3_1_19;Glutamate decarboxylase
+P2A8_1_33;Glutamate decarboxylase
+P2B1_1_8;Glutamate decarboxylase
+P2B2_1_40;Glutamate decarboxylase
+P2F6_1_11;Glutamate decarboxylase
+T2A2_1_55;Glutamate decarboxylase
+T2B4_1_7;Glutamate decarboxylase
+T2D9_1_38;Glutamate decarboxylase
+T2F6_1_18;Glutamate decarboxylase
+T2H3_1_40;Glutamate decarboxylase
+T2H3_2_4;Glutamate decarboxylase
+T2H5_1_12;Glutamate decarboxylase
+P1A10_1_69;Glutamate:gamma-aminobutyrate antiporter
+P1A1_1_62;Glutamate:gamma-aminobutyrate antiporter
+P1A4_1_70;Glutamate:gamma-aminobutyrate antiporter
+P1A6_1_49;Glutamate:gamma-aminobutyrate antiporter
+P1A8_1_46;Glutamate:gamma-aminobutyrate antiporter
+P1D8_1_4;Glutamate:gamma-aminobutyrate antiporter
+P1E11_1_32;Glutamate:gamma-aminobutyrate antiporter
+P1E1_1_44;Glutamate:gamma-aminobutyrate antiporter
+P1E7_1_41;Glutamate:gamma-aminobutyrate antiporter
+P1F8_1_35;Glutamate:gamma-aminobutyrate antiporter
+P1G10_1_8;Glutamate:gamma-aminobutyrate antiporter
+P2B2_1_41;Glutamate:gamma-aminobutyrate antiporter
+P2F4_1_5;Glutamate:gamma-aminobutyrate antiporter
+P2H3_1_2;Glutamate:gamma-aminobutyrate antiporter
+T1F10_1_48;Glutamate:gamma-aminobutyrate antiporter
+T1F7_1_17;Glutamate:gamma-aminobutyrate antiporter
+T2D9_1_39;Glutamate:gamma-aminobutyrate antiporter
+P1A10_1_70;Co-chaperone GroES
+P1A1_1_63;Co-chaperone GroES
+P1A4_1_71;Co-chaperone GroES
+P1A6_1_50;Co-chaperone GroES
+P2E10_1_6;Co-chaperone GroES
+P2G11_1_6;Co-chaperone GroES
+P3A10_1_52;Co-chaperone GroES
+P3A11_1_50;Co-chaperone GroES
+P3A12_1_46;Co-chaperone GroES
+T1C3_1_43;Co-chaperone GroES
+T2A2_1_56;Co-chaperone GroES
+T2D9_1_40;Co-chaperone GroES
+T2H3_1_41;Co-chaperone GroES
+T3B1_1_34;Co-chaperone GroES
+P1E6_1_2;Chaperone protein DnaK
+P1E6_2;Chaperone protein DnaK
+P1G10_1_9;Chaperone protein DnaK
+T1G1_1_8;Chaperone protein DnaK
+P3A11_1_51;Chaperone protein DnaJ
+P3A12_1_47;Chaperone protein DnaJ
+P3A6_1_46;Chaperone protein DnaJ
+P1A10_1_71;ATP-dependent Clp protease proteolytic subunit
+P1A1_1_64;ATP-dependent Clp protease proteolytic subunit
+P1A1_2_11;ATP-dependent Clp protease proteolytic subunit
+P1A4_1_72;ATP-dependent Clp protease proteolytic subunit
+P1A6_2_7;ATP-dependent Clp protease proteolytic subunit
+P1D11_1_25;ATP-dependent Clp protease proteolytic subunit
+P1E7_1_42;ATP-dependent Clp protease proteolytic subunit
+P1G3_2_8;ATP-dependent Clp protease proteolytic subunit
+P2G10_1_20;ATP-dependent Clp protease proteolytic subunit
+P2H2_1;ATP-dependent Clp protease proteolytic subunit
+P3A10_1_53;ATP-dependent Clp protease proteolytic subunit
+P3A11_1_52;ATP-dependent Clp protease proteolytic subunit
+P3A12_1_48;ATP-dependent Clp protease proteolytic subunit
+P3A2_1;ATP-dependent Clp protease proteolytic subunit
+P3A6_1_47;ATP-dependent Clp protease proteolytic subunit
+P3A6_2_6;ATP-dependent Clp protease proteolytic subunit
+P3A7_1_18;ATP-dependent Clp protease proteolytic subunit
+P3A8_1_27;ATP-dependent Clp protease proteolytic subunit
+P3A8_2;ATP-dependent Clp protease proteolytic subunit
+P3B1_2;ATP-dependent Clp protease proteolytic subunit
+T2A2_1_57;ATP-dependent Clp protease proteolytic subunit
+T2A7_2;ATP-dependent Clp protease proteolytic subunit
+T2D9_1_41;ATP-dependent Clp protease proteolytic subunit
+T2F6_1_19;ATP-dependent Clp protease proteolytic subunit
+T2H3_2_5;ATP-dependent Clp protease proteolytic subunit
+T2H5_1_13;ATP-dependent Clp protease proteolytic subunit
+T3A1_2_2;ATP-dependent Clp protease proteolytic subunit
+T3B2_2_2;ATP-dependent Clp protease proteolytic subunit
+P1A10_1_72;ATP-dependent Clp protease ATP-binding subunit ClpE
+P1A1_1_65;ATP-dependent Clp protease ATP-binding subunit ClpE
+P1A4_1_73;ATP-dependent Clp protease ATP-binding subunit ClpE
+P1A6_1_51;ATP-dependent Clp protease ATP-binding subunit ClpE
+P1A8_1_47;ATP-dependent Clp protease ATP-binding subunit ClpE
+P1D11_1_26;ATP-dependent Clp protease ATP-binding subunit ClpE
+P1E11_1_33;ATP-dependent Clp protease ATP-binding subunit ClpE
+P1E1_1_45;ATP-dependent Clp protease ATP-binding subunit ClpE
+P1F12_1_34;ATP-dependent Clp protease ATP-binding subunit ClpE
+P1F7_1_36;ATP-dependent Clp protease ATP-binding subunit ClpE
+P2A8_1_34;ATP-dependent Clp protease ATP-binding subunit ClpE
+P2B2_1_42;ATP-dependent Clp protease ATP-binding subunit ClpE
+P2E10_1_7;ATP-dependent Clp protease ATP-binding subunit ClpE
+P2G10_1_21;ATP-dependent Clp protease ATP-binding subunit ClpE
+P2G4_1_2;ATP-dependent Clp protease ATP-binding subunit ClpE
+P2H2_1_2;ATP-dependent Clp protease ATP-binding subunit ClpE
+P3A11_1_53;ATP-dependent Clp protease ATP-binding subunit ClpE
+P3A12_1_49;ATP-dependent Clp protease ATP-binding subunit ClpE
+P3A4_1_6;ATP-dependent Clp protease ATP-binding subunit ClpE
+P3A6_1_48;ATP-dependent Clp protease ATP-binding subunit ClpE
+P3A7_1_19;ATP-dependent Clp protease ATP-binding subunit ClpE
+P3A8_1_28;ATP-dependent Clp protease ATP-binding subunit ClpE
+T1C3_1_44;ATP-dependent Clp protease ATP-binding subunit ClpE
+T1F10_1_49;ATP-dependent Clp protease ATP-binding subunit ClpE
+T1F7_1_18;ATP-dependent Clp protease ATP-binding subunit ClpE
+T1G1_1_9;ATP-dependent Clp protease ATP-binding subunit ClpE
+T2A2_1_58;ATP-dependent Clp protease ATP-binding subunit ClpE
+T2A4_1_4;ATP-dependent Clp protease ATP-binding subunit ClpE
+T2C7_1_13;ATP-dependent Clp protease ATP-binding subunit ClpE
+T2E1_1_9;ATP-dependent Clp protease ATP-binding subunit ClpE
+T2F6_1_20;ATP-dependent Clp protease ATP-binding subunit ClpE
+T2H3_1_42;ATP-dependent Clp protease ATP-binding subunit ClpE
+T2H5_1_14;ATP-dependent Clp protease ATP-binding subunit ClpE
+T3B1_1_35;ATP-dependent Clp protease ATP-binding subunit ClpE
+P1A10_1_73;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A10_2_9;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A10_3_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A1_1_66;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A1_2_12;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A1_3_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A4_1_74;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A4_2_11;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A4_3_5;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A6_1_52;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A6_2_8;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A8_1_48;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A8_3_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1D11_2_5;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1D11_3_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1E11_2_6;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1E11_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1E1_1_46;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1E1_2_7;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1E7_2_6;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1E7_3_2;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1F3_3_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1F7_1_37;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1F7_2_8;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1F8_1_36;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1F8_2_7;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1G2_2_5;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1G2_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1G3_1_20;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1G3_2_9;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P2A8_2_6;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P2A8_3_2;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P2A9_1;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P2B2_1_43;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P2B2_2_4;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P2E10_2;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P2E4_1_9;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P2F10_1_2;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P2F6_1_12;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P2F6_2;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P2G11_2;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P3A10_1_54;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P3A11_1_54;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P3A12_1_50;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P3A6_1_49;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P3A7_1_20;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P3A8_1_29;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P3B5_1_8;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T1A3_2_2;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T1C3_1_45;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T1E12_1;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T1F10_1_50;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T1F10_2_9;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T1F7_2_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T1F9_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2A2_1_59;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2A2_2_5;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2A2_3_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2A7_1_9;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2A7_2_2;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2D6_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2D9_1_42;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2D9_2_5;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2F10_1_2;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2F10_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2F6_1_21;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2F6_3_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2H3_1_43;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2H3_3_3;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T2H5_1_15;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T3A10_1_8;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T3A7_1_2;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+T3B1_1_36;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P1A10_1_74;UDP-N-acetylmuramate dehydrogenase
+P1A1_1_67;UDP-N-acetylmuramate dehydrogenase
+P1A4_1_75;UDP-N-acetylmuramate dehydrogenase
+P1E7_1_43;UDP-N-acetylmuramate dehydrogenase
+P1F10_1_6;UDP-N-acetylmuramate dehydrogenase
+P1F12_1_35;UDP-N-acetylmuramate dehydrogenase
+P1F7_1_38;UDP-N-acetylmuramate dehydrogenase
+P1G1_1;UDP-N-acetylmuramate dehydrogenase
+P1G2_1_18;UDP-N-acetylmuramate dehydrogenase
+P2A8_1_35;UDP-N-acetylmuramate dehydrogenase
+P2B1_1_9;UDP-N-acetylmuramate dehydrogenase
+P2B2_1_44;UDP-N-acetylmuramate dehydrogenase
+P2F6_1_13;UDP-N-acetylmuramate dehydrogenase
+P2G10_1_22;UDP-N-acetylmuramate dehydrogenase
+P3A10_1_55;UDP-N-acetylmuramate dehydrogenase
+P3A11_1_55;UDP-N-acetylmuramate dehydrogenase
+P3A12_1_51;UDP-N-acetylmuramate dehydrogenase
+P3A6_1_50;UDP-N-acetylmuramate dehydrogenase
+P3A7_1_21;UDP-N-acetylmuramate dehydrogenase
+T1C3_1_46;UDP-N-acetylmuramate dehydrogenase
+T1F10_1_51;UDP-N-acetylmuramate dehydrogenase
+T1F9_1_17;UDP-N-acetylmuramate dehydrogenase
+T2A2_1_60;UDP-N-acetylmuramate dehydrogenase
+T2C12_1_2;UDP-N-acetylmuramate dehydrogenase
+T2D9_1_43;UDP-N-acetylmuramate dehydrogenase
+T2F11_1_19;UDP-N-acetylmuramate dehydrogenase
+T2H3_1_44;UDP-N-acetylmuramate dehydrogenase
+T3A1_1_19;UDP-N-acetylmuramate dehydrogenase
+P1A10_1_75;UDP-N-acetylmuramate--L-alanine ligase
+P1A1_1_68;UDP-N-acetylmuramate--L-alanine ligase
+P1A4_1_76;UDP-N-acetylmuramate--L-alanine ligase
+P1A8_1_49;UDP-N-acetylmuramate--L-alanine ligase
+P1E1_1_47;UDP-N-acetylmuramate--L-alanine ligase
+P1F10_1_7;UDP-N-acetylmuramate--L-alanine ligase
+P1F7_1_39;UDP-N-acetylmuramate--L-alanine ligase
+P1F8_1_37;UDP-N-acetylmuramate--L-alanine ligase
+P1G3_1_21;UDP-N-acetylmuramate--L-alanine ligase
+P2B2_1_45;UDP-N-acetylmuramate--L-alanine ligase
+P2F5_1_5;UDP-N-acetylmuramate--L-alanine ligase
+P2F6_1_14;UDP-N-acetylmuramate--L-alanine ligase
+P2G11_1_7;UDP-N-acetylmuramate--L-alanine ligase
+P3A10_1_56;UDP-N-acetylmuramate--L-alanine ligase
+P3A11_1_56;UDP-N-acetylmuramate--L-alanine ligase
+P3A12_1_52;UDP-N-acetylmuramate--L-alanine ligase
+P3A6_1_51;UDP-N-acetylmuramate--L-alanine ligase
+P3A7_1_22;UDP-N-acetylmuramate--L-alanine ligase
+P3A8_1_30;UDP-N-acetylmuramate--L-alanine ligase
+P3B5_1_9;UDP-N-acetylmuramate--L-alanine ligase
+T1C3_1_47;UDP-N-acetylmuramate--L-alanine ligase
+T1F10_1_52;UDP-N-acetylmuramate--L-alanine ligase
+T1F7_1_19;UDP-N-acetylmuramate--L-alanine ligase
+T2A2_1_61;UDP-N-acetylmuramate--L-alanine ligase
+T2A7_1_10;UDP-N-acetylmuramate--L-alanine ligase
+T2B4_1_8;UDP-N-acetylmuramate--L-alanine ligase
+T2D8_1_2;UDP-N-acetylmuramate--L-alanine ligase
+T2D9_1_44;UDP-N-acetylmuramate--L-alanine ligase
+T2E1_1_10;UDP-N-acetylmuramate--L-alanine ligase
+T2F6_1_22;UDP-N-acetylmuramate--L-alanine ligase
+T2G3_1_3;UDP-N-acetylmuramate--L-alanine ligase
+T3A1_1_20;UDP-N-acetylmuramate--L-alanine ligase
+T3B2_1_4;UDP-N-acetylmuramate--L-alanine ligase
+T3B8_1_9;UDP-N-acetylmuramate--L-alanine ligase
+P1A10_1_76;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P1A1_1_69;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P1A4_1_77;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P1A6_1_53;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P1A8_1_50;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P1D8_1_5;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P1E1_1_48;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P1E7_1_44;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P1F3_1_16;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P1F8_1_38;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P2B2_1_46;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P2D8_1;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P3A10_1_57;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P3A11_1_57;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P3A12_1_53;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P3A6_1_52;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+T1C3_1_48;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+T1F10_1_53;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+T1F7_1_20;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+T2A2_1_62;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+T2A4_1_5;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+T2E12_1_9;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+T3B1_1_37;UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+P1A10_1_77;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+P1A1_1_70;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+P1A4_1_78;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+P1A8_1_51;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+P1D8_1_6;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+P1E11_1_34;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+P1E1_1_49;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+P1E7_1_45;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+P1F7_1_40;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+P2B2_1_47;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+P2B3_1_10;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+T1C3_1_49;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+P1A10_1_78;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P1A1_1_71;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P1A4_1_79;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P1A8_1_52;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P1D11_1_27;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P1E11_1_35;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P1E12_1_4;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P1E1_1_50;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P1F8_1_39;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P2B2_1_48;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P2F6_1_15;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P2G10_1_23;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P2H1_1;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P3A10_1_58;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P3A11_1_58;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P3A12_1_54;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P3A6_1_53;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P3A7_1_23;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P3A8_1_31;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P3B5_1_10;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+T1F10_1_54;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+T2A2_1_63;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+T2C7_1_14;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+T2D9_1_45;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+T2E12_1_10;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+T2F11_1_20;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+T2F2_1_2;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+T2H3_1_45;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+T2H4_1_13;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+T3B1_1_38;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P1E11_1_36;EpsD
+P2A4_1_8;EpsD
+P2F4_1_6;EpsD
+P2F5_1_6;EpsD
+P1A6_1_54;EpsE
+P1E7_1_46;EpsE
+P3A6_1_54;EpsE
+P3B5_1_11;EpsE
+T1F10_1_55;EpsE
+T2F11_1_21;EpsF
+T2F11_1_22;EpsG
+P1A10_1_79;Protein-tyrosine-phosphatase
+P1A11_1_2;Protein-tyrosine-phosphatase
+P1A1_1_72;Protein-tyrosine-phosphatase
+P1A4_1_80;Protein-tyrosine-phosphatase
+P1A6_1_55;Protein-tyrosine-phosphatase
+P1D11_1_28;Protein-tyrosine-phosphatase
+P1D11_2_6;Protein-tyrosine-phosphatase
+P1E1_1_51;Protein-tyrosine-phosphatase
+P1E7_1_47;Protein-tyrosine-phosphatase
+P1F12_1_36;Protein-tyrosine-phosphatase
+P1F7_1_41;Protein-tyrosine-phosphatase
+P2A10_1_6;Protein-tyrosine-phosphatase
+P2A4_1_9;Protein-tyrosine-phosphatase
+P2A8_1_36;Protein-tyrosine-phosphatase
+P2G11_1_8;Protein-tyrosine-phosphatase
+P2G11_2_2;Protein-tyrosine-phosphatase
+P3A6_1_55;Protein-tyrosine-phosphatase
+P3A6_2_7;Protein-tyrosine-phosphatase
+T1B3_1;Protein-tyrosine-phosphatase
+P1G2_1_19;TrkA C-terminal domain-containing protein

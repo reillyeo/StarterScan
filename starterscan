@@ -1,0 +1,323 @@
+#!/usr/bin/env bash
+# =============================================================================
+# starterscan
+# Read-based gene detection and quantification from ONT metagenomic data
+# using minimap2 + samtools
+#
+# Usage:
+#   bash starterscan -r reads.fastq.gz -g genes.fasta -o output_dir
+#
+# Dependencies: chopper, minimap2, samtools (>=1.15), seqkit (optional, for read stats)
+# =============================================================================
+
+set -euo pipefail
+
+# ── Defaults ─────────────────────────────────────────────────────────────────
+THREADS=8
+MIN_IDENTITY=90        # Minimum % nucleotide identity to retain an alignment
+MIN_COVERAGE=80        # Minimum % of gene length covered by a read alignment
+MIN_MAPQ=0             # Minimum mapping quality (0 = keep all; raise to 10+ to
+                       #   remove multi-mappers if desired)
+MIN_READ_LEN=1000       # Discard reads shorter than this before alignment
+PRESET="map-ont"       # minimap2 preset — use map-ont for Nanopore
+
+# ── Usage ─────────────────────────────────────────────────────────────────────
+usage() {
+    cat <<EOF
+Usage: $(basename "$0") [OPTIONS]
+
+Required:
+  -r  PATH    Raw reads (FASTQ)
+  -g  PATH    Target gene sequences in FASTA format (nucleotide)
+  -o  PATH    Output directory (will be created if it does not exist)
+
+Optional:
+  -t  INT     Threads                         [default: $THREADS]
+  -i  INT     Minimum % identity threshold    [default: $MIN_IDENTITY]
+  -c  INT     Minimum % gene coverage         [default: $MIN_COVERAGE]
+  -q  INT     Minimum MAPQ                    [default: $MIN_MAPQ]
+  -l  INT     Minimum read length (bp)        [default: $MIN_READ_LEN]
+  -p  STR     minimap2 preset                 [default: $PRESET]
+  -h          Show this help message
+
+Examples:
+  # Basic run
+  bash starterscan -r sample.fastq -g my_genes.fasta -o results/
+
+Notes:
+  - Identity is calculated as: 100 * (matches / alignment_length)
+    using the NM tag from minimap2 output.
+  - Gene coverage is calculated per-reference using samtools coverage.
+  - A gene is considered DETECTED if at least one read meets both the
+    identity AND coverage thresholds.
+  - Abundance is reported as: (1) raw read count, (2) reads per million
+    mapped reads (RPM), and (3) mean depth across the gene.
+EOF
+    exit 0
+}
+
+# ── Parse arguments ────────────────────────────────────────────────────────────
+while getopts "r:g:o:t:i:c:q:l:p:h" opt; do
+    case $opt in
+        r) READS="$OPTARG" ;;
+        g) GENES="$OPTARG" ;;
+        o) OUTDIR="$OPTARG" ;;
+        t) THREADS="$OPTARG" ;;
+        i) MIN_IDENTITY="$OPTARG" ;;
+        c) MIN_COVERAGE="$OPTARG" ;;
+        q) MIN_MAPQ="$OPTARG" ;;
+        l) MIN_READ_LEN="$OPTARG" ;;
+        p) PRESET="$OPTARG" ;;
+        h) usage ;;
+        *) echo "Unknown option -$OPTARG"; usage ;;
+    esac
+done
+
+# ── Validate inputs ────────────────────────────────────────────────────────────
+[[ -z "${READS:-}" ]]  && { echo "ERROR: -r reads is required"; usage; }
+[[ -z "${GENES:-}" ]]  && { echo "ERROR: -g gene FASTA is required"; usage; }
+[[ -z "${OUTDIR:-}" ]] && { echo "ERROR: -o output directory is required"; usage; }
+
+for cmd in minimap2 samtools chopper; do
+    command -v "$cmd" &>/dev/null || { echo "ERROR: $cmd not found in PATH"; exit 1; }
+done
+
+# ── Setup ──────────────────────────────────────────────────────────────────────
+mkdir -p "$OUTDIR"/{logs,tmp}
+LOG="$OUTDIR/logs/pipeline.log"
+exec > >(tee -a "$LOG") 2>&1
+
+echo "============================================================"
+echo " ONT Read-Based Gene Detection Pipeline"
+echo " $(date)"
+echo "============================================================"
+echo "  Reads:        $READS"
+echo "  Gene DB:      $GENES"
+echo "  Output dir:   $OUTDIR"
+echo "  Threads:      $THREADS"
+echo "  Min identity: ${MIN_IDENTITY}%"
+echo "  Min coverage: ${MIN_COVERAGE}%"
+echo "  Min MAPQ:     $MIN_MAPQ"
+echo "  Min read len: ${MIN_READ_LEN} bp"
+echo "  Preset:       $PRESET"
+echo "------------------------------------------------------------"
+
+# ── Step 1: Collect / merge input reads ───────────────────────────────────────
+echo "[Step 1] Collecting reads..."
+
+MERGED_READS="$OUTDIR/tmp/reads_merged.fastq"
+
+if [[ -f "$READS" ]]; then
+    # Symlink to avoid copying large files
+    ln -sf "$(realpath "$READS")" "$MERGED_READS"
+else
+    echo "ERROR: -r '$READS' is not a file"; exit 1
+fi
+
+# ── Step 2: Filter short reads ────────────────────────────────────────────────
+echo "[Step 2] Filtering reads shorter than ${MIN_READ_LEN} bp..."
+
+FILTERED_READS="$OUTDIR/tmp/reads_filtered.fastq"
+
+# Use chopper on the raw FASTQ to filter by length
+
+chopper -l 1000 -i "$MERGED_READS" > "$FILTERED_READS"
+
+TOTAL_READS=$(cat "$FILTERED_READS" | awk 'NR%4==1' | wc -l)
+echo "  Reads passing length filter: $TOTAL_READS"
+
+# ── Step 3: Index gene database ───────────────────────────────────────────────
+echo "[Step 3] Indexing gene database with minimap2..."
+
+GENE_INDEX="$OUTDIR/tmp/genes.mmi"
+minimap2 -t "$THREADS" -d "$GENE_INDEX" "$GENES"
+echo "  Index written to $GENE_INDEX"
+
+# ── Step 4: Align reads to gene database ──────────────────────────────────────
+echo "[Step 4] Aligning reads with minimap2 (preset: $PRESET)..."
+
+RAW_BAM="$OUTDIR/tmp/aligned_raw.bam"
+
+# --cs produces CIGAR + NM tag needed for identity calculation
+# -N 10 retains up to 10 secondary alignments per read (reduce if RAM is tight)
+# -p 0.9 controls secondary alignment score ratio relative to primary
+minimap2 \
+    -ax "$PRESET" \
+    -t "$THREADS" \
+    --cs \
+    -N 10 \
+    -p 0.9 \
+    --secondary=no \
+    "$GENE_INDEX" \
+    "$FILTERED_READS" \
+| samtools sort -@ "$THREADS" -o "$RAW_BAM"
+
+samtools index "$RAW_BAM"
+
+TOTAL_ALIGNED=$(samtools flagstat "$RAW_BAM" | awk '/mapped \(/ {print $1; exit}')
+echo "  Total aligned reads (before filtering): $TOTAL_ALIGNED"
+
+# ── Step 5: Filter by MAPQ and flag ───────────────────────────────────────────
+echo "[Step 5] Filtering alignments (MAPQ >= $MIN_MAPQ, removing unmapped/secondary flags)..."
+
+MAPQ_BAM="$OUTDIR/tmp/aligned_mapq.bam"
+
+# -F 4   : exclude unmapped reads
+# -F 256 : exclude non-primary alignments if you want only primary hits
+#   (remove -F 256 if you want to count secondary hits too)
+# Keep secondary alignments (-F 256 removed) to catch reads spanning multiple genes
+samtools view \
+    -@ "$THREADS" \
+    -b \
+    -F 256 \
+    -q "$MIN_MAPQ" \
+    "$RAW_BAM" \
+| samtools sort -@ "$THREADS" -o "$MAPQ_BAM"
+
+samtools index "$MAPQ_BAM"
+
+# ── Step 6: Filter by identity ────────────────────────────────────────────────
+echo "[Step 6] Filtering alignments by identity >= ${MIN_IDENTITY}%..."
+
+IDENTITY_BAM="$OUTDIR/tmp/aligned_identity.bam"
+
+# Identity = (alignment_length - NM) / alignment_length * 100
+# NM tag = number of mismatches + indels
+samtools view -h "$MAPQ_BAM" | awk -v min_id="$MIN_IDENTITY" '
+    /^@/ { print; next }
+    {
+        # Extract alignment length from CIGAR
+        cigar = $6
+        aln_len = 0
+        while (match(cigar, /[0-9]+[MIDNSHP=X]/)) {
+            token = substr(cigar, RSTART, RLENGTH)
+            op = substr(token, length(token))
+            n  = substr(token, 1, length(token)-1)
+            if (op ~ /[MIDX=]/) aln_len += n   # consumes reference or query
+            cigar = substr(cigar, RSTART + RLENGTH)
+        }
+
+        # Extract NM tag (edit distance)
+        nm = 0
+        for (i=12; i<=NF; i++) {
+            if ($i ~ /^NM:i:/) {
+                nm = substr($i, 6) + 0
+                break
+            }
+        }
+
+        if (aln_len > 0) {
+            identity = (aln_len - nm) / aln_len * 100
+            if (identity >= min_id) print
+        }
+    }
+' | samtools view -@ "$THREADS" -b -o "$IDENTITY_BAM"
+
+samtools index "$IDENTITY_BAM"
+
+# ── Step 7: Compute per-gene coverage and filter by gene coverage ─────────────
+echo "[Step 7] Computing per-gene coverage (samtools coverage)..."
+
+COVERAGE_TSV="$OUTDIR/tmp/coverage_raw.tsv"
+FINAL_BAM="$OUTDIR/tmp/aligned_final.bam"
+
+# samtools coverage gives per-reference stats including % bases covered
+samtools coverage "$IDENTITY_BAM" > "$COVERAGE_TSV"
+
+# Filter genes passing the coverage threshold
+awk -v min_cov="$MIN_COVERAGE" '
+    NR==1 { print; next }
+    { if ($6 >= min_cov) print }
+' "$COVERAGE_TSV" > "$OUTDIR/coverage_filtered.tsv"
+
+echo "  Genes passing coverage filter: $(tail -n +2 "$OUTDIR/coverage_filtered.tsv" | wc -l)"
+
+# Extract only reads mapping to passing genes (for clean final BAM)
+PASSING_GENES_LIST="$OUTDIR/tmp/passing_genes.txt"
+tail -n +2 "$OUTDIR/coverage_filtered.tsv" | cut -f1 > "$PASSING_GENES_LIST"
+
+samtools view \
+    -@ "$THREADS" \
+    -b \
+    -L <(awk '{print $1"\t0\t1000000"}' "$PASSING_GENES_LIST") \
+    "$IDENTITY_BAM" \
+| samtools sort -@ "$THREADS" -o "$FINAL_BAM"
+
+samtools index "$FINAL_BAM"
+
+# ── Step 8: Quantify — read counts + RPM + depth ──────────────────────────────
+echo "[Step 8] Quantifying gene hits..."
+
+COUNT_TSV="$OUTDIR/tmp/read_counts.tsv"
+DEPTH_TSV="$OUTDIR/tmp/mean_depth.tsv"
+
+# Read counts per gene
+samtools idxstats "$FINAL_BAM" | \
+    awk 'NF==4 && $3>0 {print $1"\t"$3}' | \
+    sort -k1,1 > "$COUNT_TSV"
+
+# Mean depth per gene (from samtools coverage output already computed)
+awk 'NR>1 {print $1"\t"$7}' "$OUTDIR/coverage_filtered.tsv" \
+    | sort -k1,1 > "$DEPTH_TSV"
+
+# ── Step 9: Merge into final results table ────────────────────────────────────
+echo "[Step 9] Building results table..."
+
+RESULTS="$OUTDIR/gene_detection_results.tsv"
+TOTAL_MB=$(du "$FILTERED_READS" | awk '{print $1}')
+
+python3 - <<PYEOF
+import csv, os
+
+total_mb = int("$TOTAL_MB") or 1  # avoid div/0
+
+# Load gene lengths
+lengths = {}
+with open("${GENES}.fai") as f:
+    for line in f:
+        parts = line.strip().split('\t')
+        lengths[parts[0]] = int(parts[1])
+
+# Load read counts
+counts = {}
+with open("$COUNT_TSV") as f:
+    for line in f:
+        gene, count = line.strip().split('\t')
+        counts[gene] = int(count)
+
+# Load coverage stats (gene -> (mean_depth, pct_covered))
+coverage = {}
+with open("$OUTDIR/coverage_filtered.tsv") as f:
+    reader = csv.DictReader(f, delimiter='\t')
+    for row in reader:
+        coverage[row['#rname']] = (
+            float(row['meandepth']),
+            float(row['coverage'])
+        )
+
+# Write results
+with open("$RESULTS", 'w') as out:
+    out.write("gene\tread_count\tRP2Mb\tmean_depth\tpct_bases_covered\tgene_length\tdetected\n")
+    for gene in sorted(lengths.keys()):
+        count      = counts.get(gene, 0)
+        genelen    = lengths[gene]
+        rp2mb        = count * total_mb / 2_000_000
+        depth      = coverage.get(gene, (0, 0))[0]
+        pct_cov    = coverage.get(gene, (0, 0))[1]
+        detected   = "YES" if count > 0 else "NO"
+        out.write(f"{gene}\t{count}\t{rp2mb:.2f}\t{depth:.2f}\t{pct_cov:.1f}\t{genelen}\t{detected}\n")
+
+print(f"  Results written for {len(lengths)} genes.")
+PYEOF
+
+# ── Step 9: Create final results table ──────────────────────────────
+
+Rscript ~/my_scripts/starterscan/merge_results.R -o "$OUTDIR"
+
+# ── Step 10: Classify reads with metabuli ──────────────────────────────
+
+metabuli classify "$FILTERED_READS" ~/databases/metabuli/cheeseDB "$OUTDIR" metabuli --seq-mode 3 --min-score 0.008 --lineage 1 --threads "$THREADS"
+
+echo ""
+echo "Done! Full results: $RESULTS"
+echo "============================================================"
