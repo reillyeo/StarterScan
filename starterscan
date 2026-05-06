@@ -50,8 +50,7 @@ Notes:
   - Gene coverage is calculated per-reference using samtools coverage.
   - A gene is considered DETECTED if at least one read meets both the
     identity AND coverage thresholds.
-  - Abundance is reported as: (1) raw read count, (2) reads per million
-    mapped reads (RPM), and (3) mean depth across the gene.
+  - Final output file (annotated_genecounts.csv) reports: (1) gene products, (2) reads per 2 megabases (RP2Mb).
 EOF
     exit 0
 }
