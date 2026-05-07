@@ -5,7 +5,7 @@
 # using minimap2 + samtools
 #
 # Usage:
-#   bash starterscan -r reads.fastq.gz -g genes.fasta -o output_dir
+#   starterscan -r reads.fastq.gz -g genes.fasta -o output_dir
 #
 # Dependencies: chopper, minimap2, samtools (>=1.15), seqkit (optional, for read stats)
 # =============================================================================
@@ -23,6 +23,7 @@ MIN_MAPQ=0             # Minimum mapping quality (0 = keep all; raise to 10+ to
                        #   remove multi-mappers if desired)
 MIN_READ_LEN=1000       # Discard reads shorter than this before alignment
 PRESET="map-ont"       # minimap2 preset — use map-ont for Nanopore
+MAXRAM=128             # maximum RAM allocation for metabuli (make sure to decrease this value if your machine has less than 128 Gb RAM to avoid segmentation fault)
 
 # ── Usage ─────────────────────────────────────────────────────────────────────
 usage() {
@@ -31,16 +32,17 @@ Usage: $(basename "$0") [OPTIONS]
 
 Required:
   -r  PATH    Raw reads (FASTQ)
-  -g  PATH    Target gene sequences in FASTA format (default: ${SCRIPT_DIR}/data/genes_unique.fasta)
   -o  PATH    Output directory (will be created if it does not exist)
 
 Optional:
+  -g  PATH    Target gene sequences in FASTA format [default: $GENES]
   -t  INT     Threads                         [default: $THREADS]
   -i  INT     Minimum % identity threshold    [default: $MIN_IDENTITY]
   -c  INT     Minimum % gene coverage         [default: $MIN_COVERAGE]
   -q  INT     Minimum MAPQ                    [default: $MIN_MAPQ]
   -l  INT     Minimum read length (bp)        [default: $MIN_READ_LEN]
   -p  STR     minimap2 preset                 [default: $PRESET]
+  -m  INT     maximum RAM allocation          [default: $MAXRAM]
   -h          Show this help message
 
 Examples:
@@ -59,7 +61,7 @@ EOF
 }
 
 # ── Parse arguments ────────────────────────────────────────────────────────────
-while getopts "r:g:o:t:i:c:q:l:p:h" opt; do
+while getopts "r:g:o:t:i:c:q:l:p:m:h" opt; do
     case $opt in
         r) READS="$OPTARG" ;;
         g) GENES="$OPTARG" ;;
@@ -70,6 +72,7 @@ while getopts "r:g:o:t:i:c:q:l:p:h" opt; do
         q) MIN_MAPQ="$OPTARG" ;;
         l) MIN_READ_LEN="$OPTARG" ;;
         p) PRESET="$OPTARG" ;;
+        m) MAXRAM="$OPTARG" ;;
         h) usage ;;
         *) echo "Unknown option -$OPTARG"; usage ;;
     esac
@@ -101,6 +104,7 @@ echo "  Min coverage: ${MIN_COVERAGE}%"
 echo "  Min MAPQ:     $MIN_MAPQ"
 echo "  Min read len: ${MIN_READ_LEN} bp"
 echo "  Preset:       $PRESET"
+echo "  Max RAM:      $MAXRAM"
 echo "------------------------------------------------------------"
 
 # ── Step 1: Collect / merge input reads ───────────────────────────────────────
@@ -317,7 +321,7 @@ Rscript ${SCRIPT_DIR}/merge_results.R -o "$OUTDIR" -g ${SCRIPT_DIR}/data/gene_pr
 
 # ── Step 10: Classify reads with metabuli ──────────────────────────────
 
-metabuli classify "$FILTERED_READS" ${SCRIPT_DIR}/data/starterscan_db "$OUTDIR" metabuli --seq-mode 3 --min-score 0.008 --lineage 1 --threads "$THREADS"
+metabuli classify "$FILTERED_READS" ${SCRIPT_DIR}/data/starterscan_db "$OUTDIR" metabuli --seq-mode 3 --min-score 0.008 --lineage 1 --threads "$THREADS" --max-ram "$MAXRAM"
 
 echo ""
 echo "Done! Full results: $RESULTS"
