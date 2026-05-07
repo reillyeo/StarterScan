@@ -8,3 +8,4 @@ dependencies:
   - seqkit
   - r-base
   - metabuli
+  - chopper

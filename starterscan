@@ -45,7 +45,7 @@ Optional:
 
 Examples:
   # Basic run
-  bash starterscan -r sample.fastq -o results/
+  starterscan -r sample.fastq -o results/
 
 Notes:
   - Identity is calculated as: 100 * (matches / alignment_length)
