@@ -313,7 +313,7 @@ PYEOF
 
 # ── Step 9: Create final results table ──────────────────────────────
 
-Rscript ${SCRIPT_DIR}/merge_results.R -o "$OUTDIR"
+Rscript ${SCRIPT_DIR}/merge_results.R -o "$OUTDIR" -g ${SCRIPT_DIR}/data/gene_products.csv
 
 # ── Step 10: Classify reads with metabuli ──────────────────────────────
 
